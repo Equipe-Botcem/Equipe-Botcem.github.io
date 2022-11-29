@@ -1,0 +1,18 @@
+*.log
+*.exe
+
+.venv*/
+.idea*/
+.vscode*/
+.eggs/
+.bkp*/
+.pytest_cache/
+__pycache__/
+
+build/
+dist/
+licenses/
+
+# Add your folders to ignore here
+config/*-track.json
+.coverage
