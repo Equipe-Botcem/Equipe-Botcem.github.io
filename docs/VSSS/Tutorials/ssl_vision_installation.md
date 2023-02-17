@@ -8,7 +8,7 @@ Em 2009, os comitês da liga decidiram migrar para um sistema de visão comparti
 
 Esse é um guia básico de instalação e execução do software. Caso tenha algum problema de incompatibilidade/execução, visite [**requirements**](https://github.com/RoboCup-SSL/ssl-vision/wiki/requirements) na wiki do repositório original. 
 
-  **Repositório do SSL Vision:** https://github.com/RoboCup-SSL/ssl-vision
+  **Repositório original do SSL Vision:** https://github.com/RoboCup-SSL/ssl-vision
 
  
 ## Guia de instalação
