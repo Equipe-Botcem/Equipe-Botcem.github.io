@@ -8,7 +8,6 @@ Olá, aqui estão os principais links que você, lindo estudante que acabou de i
 
 ---
 
-- [Guia de instalação e execução do SSLVision](./Tutorials/ssl_vision_installation.md)
+## Tutoriais
 
-## ToDo
-- [ ] Adicionar links para os outros documentos
+[Guia de instalação e execução do SSLVision](./Tutorials/ssl_vision_installation.md)
