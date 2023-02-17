@@ -8,7 +8,7 @@ Olá, aqui estão os principais links que você, lindo estudante que acabou de i
 
 ---
 
-- [Instalando e rodando o sistema de visão(SSLVision)] (./Tutorials/ssl_vision_installation.md)
+- [Instalando e rodando o sistema de visão(SSLVision)](./Tutorials/ssl_vision_installation.md)
 
 ## ToDo
 - [ ] Adicionar links para os outros documentos
