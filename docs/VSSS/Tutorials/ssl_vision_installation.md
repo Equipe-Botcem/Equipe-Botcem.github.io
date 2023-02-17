@@ -28,9 +28,7 @@ Ubuntu/Debian a partir de 22.04 (pacote libdc1394-22 n√£o utilizado nessas vers√
 
  `apt-get install -qq g++ qtdeclarative5-dev libqt5multimedia5 libeigen3-dev protobuf-compiler libprotobuf-dev cmake libv4l-0 libopencv-dev freeglut3-dev`
     
-Ubuntu/Debian 21.10 e anteriores:
-
-    ./InstallPackagesUbuntu.sh
+Ubuntu/Debian 21.10 e anteriores: `./InstallPackagesUbuntu.sh`
     
 Archlinux:
 
