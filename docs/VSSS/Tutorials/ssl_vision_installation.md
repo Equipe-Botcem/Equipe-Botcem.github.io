@@ -2,7 +2,9 @@
 
 ## Introdução  
 
-No passado, as regras da RoboCup Small Size League permitiam que cada equipe configurasse o seu próprio sistema de visão global como um sensor primário. Esta opção trouxe várias limitações organizacionais e custos para as equipes, prejudicando o andamento do campeonato. Além disso, a maioria das equipes convergiu para soluções semelhantes e produziu poucos resultados de pesquisa significativos para esse problema de visão global nos últimos anos. Em 2009, os comitês da liga decidiram migrar para um sistema de visão compartilhada (incluindo hardware) que pudesse ser usado por todos os times. Este sistema - denominado SSL-Vision - é atualmente desenvolvido por voluntários das equipes participantes. Foi desenvolvido somente para Linux.
+No passado, as regras da RoboCup Small Size League permitiam que cada equipe configurasse o seu próprio sistema de visão global como um sensor primário. Esta opção trouxe várias limitações organizacionais e custos para as equipes, prejudicando o andamento do campeonato. Além disso, a maioria das equipes convergiu para soluções semelhantes e produziu poucos resultados de pesquisa significativos para esse problema de visão global nos últimos anos.
+
+Em 2009, os comitês da liga decidiram migrar para um sistema de visão compartilhada (incluindo hardware) que pudesse ser usado por todos os times. Este sistema - denominado SSL-Vision - é atualmente desenvolvido por voluntários das equipes participantes. Foi desenvolvido somente para Linux.
 
 Esse é um guia básico de instalação e execução do software. Caso tenha algum problema de incompatibilidade/execução, visite [**requirements**](https://github.com/RoboCup-SSL/ssl-vision/wiki/requirements), na wiki do repositório. 
 
