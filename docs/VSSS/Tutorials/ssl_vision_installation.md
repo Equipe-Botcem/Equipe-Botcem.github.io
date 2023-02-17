@@ -6,7 +6,7 @@ No passado, as regras da RoboCup Small Size League permitiam que cada equipe con
 
 Em 2009, os comitês da liga decidiram migrar para um sistema de visão compartilhada (incluindo hardware) que pudesse ser usado por todos os times. Este sistema - denominado SSL-Vision - é atualmente desenvolvido por voluntários das equipes participantes. Foi desenvolvido somente para Linux.
 
-Esse é um guia básico de instalação e execução do software. Caso tenha algum problema de incompatibilidade/execução, visite [**requirements**](https://github.com/RoboCup-SSL/ssl-vision/wiki/requirements), na wiki do repositório. 
+Esse é um guia básico de instalação e execução do software. Caso tenha algum problema de incompatibilidade/execução, visite [**requirements**](https://github.com/RoboCup-SSL/ssl-vision/wiki/requirements) na wiki do repositório original. 
 
   **Repositório do SSL Vision:** https://github.com/RoboCup-SSL/ssl-vision
 
