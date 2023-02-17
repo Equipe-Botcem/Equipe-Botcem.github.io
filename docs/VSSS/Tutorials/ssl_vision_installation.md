@@ -19,16 +19,16 @@ O software foi desenvolvido para Linux, com a distribuição de referência **Ub
 ### Obtendo o SSL Vision
 Para obter a versão mais atualizada usando git:
 
-```
-git clone https://github.com/RoboCup-SSL/ssl-vision.git
 ```bash
+git clone https://github.com/RoboCup-SSL/ssl-vision.git
+```
 
 ### Instalando dependências
 
 Ubuntu/Debian a partir de 22.04 (pacote libdc1394-22 não utilizado nessas versões):
-```
-apt-get install -qq g++ qtdeclarative5-dev libqt5multimedia5 libeigen3-dev protobuf-compiler libprotobuf-dev cmake libv4l-0 libopencv-dev freeglut3-dev
 ```bash
+apt-get install -qq g++ qtdeclarative5-dev libqt5multimedia5 libeigen3-dev protobuf-compiler libprotobuf-dev cmake libv4l-0 libopencv-dev freeglut3-dev
+```
 
 Ubuntu/Debian 21.10 e anteriores: `./InstallPackagesUbuntu.sh`
     
