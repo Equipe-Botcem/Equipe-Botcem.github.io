@@ -30,9 +30,7 @@ Ubuntu/Debian a partir de 22.04 (pacote libdc1394-22 não utilizado nessas vers�
     
 Ubuntu/Debian 21.10 e anteriores: `./InstallPackagesUbuntu.sh`
     
-Archlinux:
-
-    ./InstallPackagesArch.sh
+Archlinux: `./InstallPackagesArch.sh`
 
 ### Compilação
 Após verificar o código, o programa pode ser compilado com: `make`
