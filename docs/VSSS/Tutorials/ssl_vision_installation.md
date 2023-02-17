@@ -37,9 +37,7 @@ Archlinux:
     ./InstallPackagesArch.sh
 
 ### Compilação
-Após verificar o código, o programa pode ser compilado com:
-
-    make
+Após verificar o código, o programa pode ser compilado com: `make`
 
 ### Execução
 Após compilar com sucesso, haverão os três binários, que devem ser executados pelo diretório  `./bin` :
