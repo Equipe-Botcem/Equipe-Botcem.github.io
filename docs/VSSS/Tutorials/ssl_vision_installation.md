@@ -21,7 +21,6 @@ Para obter a versão mais atualizada usando git:
 
     git clone https://github.com/RoboCup-SSL/ssl-vision.git
 
-Ou faça o download do zipado em "Code", no **[Repositório do SSL Vision](https://github.com/RoboCup-SSL/ssl-vision)**, e extraia em algum diretório de seu computador.
 
 ### Instalando dependências
 
