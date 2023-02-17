@@ -38,7 +38,7 @@ Archlinux: `./InstallPackagesArch.sh`
 Após verificar o código, o programa pode ser compilado com: `make`
 
 ### Execução
-Após compilar com sucesso, haverão os três binários, que devem ser executados pelo diretório  `./bin` :
+Após compilar com sucesso, haverão os três binários dentro do diretório `./bin` , que devem ser executados a partir do root do repositório:
 
 -   `./bin/vision`   - SSL-Vision application
 -   `./bin/client`  - Simple sample client
