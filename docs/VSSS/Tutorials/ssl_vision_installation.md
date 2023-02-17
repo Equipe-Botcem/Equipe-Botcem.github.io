@@ -15,7 +15,7 @@ Esse é um guia básico de instalação e execução do software. Caso tenha alg
 
 ### Sistemas Operacionais
 
-O software foi desenvolvido para Linux, com a distribuição de referência Ubuntu 20.04 LTS.
+O software foi desenvolvido para Linux, com a distribuição de referência **Ubuntu 20.04 LTS**.
 ### Obtendo o SSL Vision
 Para obter a versão mais atualizada usando git:
 
