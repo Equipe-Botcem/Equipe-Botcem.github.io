@@ -11,11 +11,10 @@ O repositório contendo o código fonte e os manuais de instalação estão cont
 ## Requisitos de sistema
   
  FIRASIM no é exigente, rodando com as especificações em exemplo abaixo: 
-  
- - Dual Core CPU (2.0 Ghz+) 
- - 1GB of RAM 
- - 256MB nVidia or ATI graphics card 
  
+- Dual Core CPU (2.0 Ghz+)
+- 1GB de RAM
+- Placa de vídeo da nVidea ou ATI com 256MB 
 
  ## Dependências 
   
@@ -83,6 +82,6 @@ Clone o FIRASim para o diretório de sua preferência.
  Para rodar o programa, execute-o como qualquer outro programa em C('./FIRASim' dentro da pasta do binário), ou, mais recomendado, dentro da pasta 'build' inserir no terminal './../bin/FIRASim'.
  
  Podes executar o programa com algumas flags, sendo elas e suas utilidades:
-"-H": para rodar o software sem a interface gráfica;
-"-atkfault": para ativar a detecção de dois robôs adversários dentro da área
-"-xlr8": para usar uma função mais rápida e menos precisa da ODE
+ - "-H": para rodar o software sem a interface gráfica;
+ - "-atkfault": para ativar a detecção de dois robôs adversários dentro da áre
+ - "-xlr8": para usar uma função mais rápida e menos precisa da ODE
