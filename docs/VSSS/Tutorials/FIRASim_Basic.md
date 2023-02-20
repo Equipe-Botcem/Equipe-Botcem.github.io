@@ -8,6 +8,8 @@ O Software foi desenvolvido no Ubuntu 18.04, escrito em C++ e feito pela equipe 
 
 O repositório contendo o código fonte e os manuais de instalação estão contidos no site: [https://github.com/robocin/FIRASim](https://github.com/robocin/FIRASim)
 
+<span style="color:red"> Atenção: As instruções de instalação contidas nesse documento são uma versão resumida e traduzida das instruções contidas no repositório original. Caso o seu sistema operacional seja MAC OS, ou busque a opção de baixar alguma dependência através de seu source code ou tenha tido algum problema com este guia, vá para o material original e siga suas instruções.</span>
+
 ## Requisitos de sistema
   
  FIRASIM no é exigente, rodando com as especificações em exemplo abaixo: 
