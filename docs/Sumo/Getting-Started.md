@@ -1,3 +1,7 @@
+---
+parent: Sumo
+nav_order: 10
+---
 # Getting Started to Sumô
 
 Olá, aqui estão os principais links que você, lindo estudante que acabou de iniciar na célula de Sumô da Equipe, precisa ver, entender e utilizar:

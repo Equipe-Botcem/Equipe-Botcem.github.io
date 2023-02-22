@@ -19,6 +19,6 @@ Aqui você encontrará links e dicas gerais sobre a Equipe, como: habilidades b�
 Aqui você encontrará links e dicas específicas sobre cada projeto da equipe, como: como começar, como usar, etc.
 
 - [VSSS](./VSSS/Getting-Started.md)
-- [Combate](./Combate/Getting-Started.md)
 - [Sumô](./Sumo/Getting-Started.md)
 - [Seguidor de Linha](./Seguidor/Getting-Started.md)
+- [Combate](./Combate/Getting-Started.md)
