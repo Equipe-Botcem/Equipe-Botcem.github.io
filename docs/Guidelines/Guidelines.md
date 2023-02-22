@@ -2,6 +2,7 @@
 has_children: true
 nav_order: 10
 has_toc: true
+permalink: /Guidelines
 ---
 # Guidelines
 
