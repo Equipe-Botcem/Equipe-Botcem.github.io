@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Botcem
+logo: "assets/img/logo_bot.png"
 
 email: botcemadm@gmail.com
 description: Wiki geral da Equipe Botcem!
@@ -26,8 +27,8 @@ github_username:  Equipe-Botcem
 
 # Build settings
 
-remote_theme: pages-themes/minimal@v0.2.0
-#theme: minima
+#remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
