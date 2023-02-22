@@ -1,3 +1,9 @@
+---
+has_children: false
+title: Home
+nav_order: -1
+permalink: /
+---
 # Wiki Geral da Equipe Botcem
 
 Olá, BotDev! Aqui você encontrará a documentação dos projetos da equipe Botcem.
