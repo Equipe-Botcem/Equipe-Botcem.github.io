@@ -35,35 +35,35 @@ Primeiramente, abra um terminal e instale as dependências já citadas:
 
 ```bash 
 sudo apt-get install git build-essential cmake qt5-default libqt5opengl5-dev libgl1-mesa-dev libglu1-mesa-dev libprotobuf-dev protobuf-compiler libode-dev libboost-dev 
- ``` 
+``` 
  
- Compile e instale o VarTypes a partir do seu código fonte:
+Compile e instale o VarTypes a partir do seu código fonte:
   
- ```bash 
- $ cd /tmp 
- $ git clone https://github.com/jpfeltracco/vartypes.git 
- $ cd vartypes 
- $ mkdir build 
- $ cd build 
- $ cmake .. 
- $ make 
- $ sudo make install 
- ``` 
+```bash 
+$ cd /tmp 
+$ git clone https://github.com/jpfeltracco/vartypes.git 
+$ cd vartypes 
+$ mkdir build 
+$ cd build 
+$ cmake .. 
+$ make 
+$ sudo make install 
+``` 
   
 Clone o FIRASim para o diretório de sua preferência.
 
- ```bash 
- $ cd /path/to/firasim_ws 
- $ git clone https://github.com/robocin/FIRASim.git 
- $ cd FIRASim 
- ``` 
+```bash 
+$ cd /path/to/firasim_ws 
+$ git clone https://github.com/robocin/FIRASim.git 
+$ cd FIRASim 
+``` 
  
- Crie uma pasta dentro do diretório chamada `build` e entre nela:
+Crie uma pasta dentro do diretório chamada `build` e entre nela:
   
- ```bash
- $ mkdir build 
- $ cd build 
- ``` 
+```bash
+$ mkdir build 
+$ cd build 
+``` 
  
 Execute o Cmake de dentro de `build` para gerar o makefile e compile o programa:
   
@@ -76,7 +76,7 @@ O binário (executável) é gerado dentro da pasta `FIRASim/bin` após compilaç
  
 Para rodar o programa, execute-o a partir da raiz do projeto: `./bin/FIRASim`
  
- Podes executar o programa com algumas flags, sendo elas e suas utilidades:
+Podes executar o programa com algumas flags, sendo elas e suas utilidades:
 - `-H`: para rodar o software sem a interface gráfica;
 - `-atkfault`: para ativar a detecção de dois robôs adversários dentro da área;
 - `-xlr8`: para usar uma função mais rápida e menos precisa da ODE.
