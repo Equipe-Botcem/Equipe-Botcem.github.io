@@ -65,16 +65,11 @@ Clone o FIRASim para o diretório de sua preferência.
  $ cd build 
  ``` 
  
- Execute o Cmake dentro de 'build' para gerar a makefile
+Execute o Cmake de dentro de `build` para gerar o makefile e compile o programa:
   
- ```bash 
- $ cmake .. 
- ``` 
- 
- Compile o programa:
-  
- ```bash 
- $ make 
+```bash 
+cmake ..
+make 
  ``` 
  
  O binário(Executável) é copiado para a pasta '../bin' depois de ter compilado o código.
