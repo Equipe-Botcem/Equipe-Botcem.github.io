@@ -40,29 +40,29 @@ sudo apt-get install git build-essential cmake qt5-default libqt5opengl5-
 Compile e instale o VarTypes a partir do seu código fonte:
   
 ```bash 
-$ cd /tmp 
-$ git clone https://github.com/jpfeltracco/vartypes.git 
-$ cd vartypes 
-$ mkdir build 
-$ cd build 
-$ cmake .. 
-$ make 
-$ sudo make install 
+cd /tmp 
+git clone https://github.com/jpfeltracco/vartypes.git 
+cd vartypes 
+mkdir build 
+cd build 
+cmake .. 
+make 
+sudo make install 
 ``` 
   
 Clone o FIRASim para o diretório de sua preferência.
 
 ```bash 
-$ cd /path/to/firasim_ws 
-$ git clone https://github.com/robocin/FIRASim.git 
-$ cd FIRASim 
+cd /path/to/firasim_ws 
+git clone https://github.com/robocin/FIRASim.git 
+cd FIRASim 
 ``` 
  
 Crie uma pasta dentro do diretório chamada `build` e entre nela:
   
 ```bash
-$ mkdir build 
-$ cd build 
+mkdir build 
+cd build 
 ``` 
  
 Execute o Cmake de dentro de `build` para gerar o makefile e compile o programa:
