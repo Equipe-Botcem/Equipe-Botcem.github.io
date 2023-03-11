@@ -6,7 +6,7 @@ FIRASim é o Software oficial de simulação de partidas virtuais da VSSS Brasil
 
 O Software foi desenvolvido no Ubuntu 18.04, escrito em C++ e feito pela equipe de competição RoboCin.
 
-O repositório contendo o código fonte e os manuais de instalação estão contidos no site: [https://github.com/robocin/FIRASim](https://github.com/robocin/FIRASim)
+O repositório contendo o código fonte e os manuais de instalação estão contidos no [repositório original do FIRASim](https://github.com/robocin/FIRASim).
 
 **Atenção: As instruções de instalação contidas nesse documento são uma versão resumida e traduzida das instruções contidas no repositório original. Caso o seu sistema operacional seja MAC OS, ou busque a opção de baixar alguma dependência através de seu source code ou tenha tido algum problema com este guia, vá para o material original e siga suas instruções.**
 
