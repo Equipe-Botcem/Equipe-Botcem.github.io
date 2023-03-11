@@ -37,7 +37,7 @@ Primeiramente, abra um terminal e instale as dependências já citadas:
 sudo apt-get install git build-essential cmake qt5-default libqt5opengl5-dev libgl1-mesa-dev libglu1-mesa-dev libprotobuf-dev protobuf-compiler libode-dev libboost-dev 
  ``` 
  
- Compile e instale VartTypes de seu source, usando git:
+ Compile e instale o VarTypes a partir do seu código fonte:
   
  ```bash 
  $ cd /tmp 
