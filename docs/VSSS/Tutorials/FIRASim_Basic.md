@@ -4,7 +4,7 @@
 
 FIRASim é o Software oficial de simulação de partidas virtuais da VSSS Brasil, e, utilizado juntamente com o Docker, permite que equipes compitam virtualmente à distância.
 
-O Software foi desenvolvido no Ubuntu 18.04, escrito em C++ e feito pela equipe de competição RoboCin.
+O Software foi desenvolvido no **Ubuntu 18.04**, escrito em C++ e feito pela equipe de competição RoboCin.
 
 O repositório contendo o código fonte e os manuais de instalação estão contidos no [repositório original do FIRASim](https://github.com/robocin/FIRASim).
 
