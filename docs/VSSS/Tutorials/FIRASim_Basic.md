@@ -58,7 +58,7 @@ Clone o FIRASim para o diretório de sua preferência.
  $ cd FIRASim 
  ``` 
  
- Crie um diretório dentro da pasta do projeto chamado "build" (Ignorado pelo gitignore) e entre nela:
+ Crie uma pasta dentro do diretório chamada `build` e entre nela:
   
  ```bash
  $ mkdir build 
