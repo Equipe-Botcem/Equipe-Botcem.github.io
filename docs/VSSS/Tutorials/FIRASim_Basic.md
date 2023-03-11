@@ -74,7 +74,7 @@ make
  
 O binário (executável) é gerado dentro da pasta `FIRASim/bin` após compilação do código.
  
- Para rodar o programa, execute-o como qualquer outro programa em C('./FIRASim' dentro da pasta do binário), ou, mais recomendado, dentro da pasta 'build' inserir no terminal './../bin/FIRASim'.
+Para rodar o programa, execute-o a partir da raiz do projeto: `./bin/FIRASim`
  
  Podes executar o programa com algumas flags, sendo elas e suas utilidades:
 - `-H`: para rodar o software sem a interface gráfica;
