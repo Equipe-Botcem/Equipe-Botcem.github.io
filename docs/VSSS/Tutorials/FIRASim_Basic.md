@@ -77,6 +77,6 @@ O binário (executável) é gerado dentro da pasta `FIRASim/bin` após compilaç
  Para rodar o programa, execute-o como qualquer outro programa em C('./FIRASim' dentro da pasta do binário), ou, mais recomendado, dentro da pasta 'build' inserir no terminal './../bin/FIRASim'.
  
  Podes executar o programa com algumas flags, sendo elas e suas utilidades:
- - "-H": para rodar o software sem a interface gráfica;
- - "-atkfault": para ativar a detecção de dois robôs adversários dentro da áre
- - "-xlr8": para usar uma função mais rápida e menos precisa da ODE
+- `-H`: para rodar o software sem a interface gráfica;
+- `-atkfault`: para ativar a detecção de dois robôs adversários dentro da área;
+- `-xlr8`: para usar uma função mais rápida e menos precisa da ODE.
