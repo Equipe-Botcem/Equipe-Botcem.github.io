@@ -20,7 +20,7 @@ O repositório contendo o código fonte e os manuais de instalação estão cont
 
 ## Dependências 
   
- FIRASim depends on: 
+O FIRASim depende de: 
   
 - C++
 - [CMake](https://cmake.org/) version 3.5+
