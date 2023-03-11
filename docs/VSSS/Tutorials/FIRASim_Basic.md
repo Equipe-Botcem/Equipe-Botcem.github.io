@@ -18,7 +18,7 @@ O repositório contendo o código fonte e os manuais de instalação estão cont
 - 1GB de RAM
 - Placa de vídeo da nVidea ou ATI com 256MB 
 
- ## Dependências 
+## Dependências 
   
  FIRASim depends on: 
   
