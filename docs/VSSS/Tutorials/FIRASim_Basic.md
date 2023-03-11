@@ -12,11 +12,9 @@ O repositório contendo o código fonte e os manuais de instalação estão cont
 
 ## Requisitos de sistema
   
- FIRASIM no é exigente, rodando com as especificações em exemplo abaixo: 
- 
-- Dual Core CPU (2.0 Ghz+)
-- 1GB de RAM
-- Placa de vídeo da nVidea ou ATI com 256MB 
+O FIRASim foi desenvolvido e testado em **Ubuntu 18.04**, mas é capaz de compilar e rodar em sistemas Windows, Linux e MacOS, de 32 e 64 bits. 
+
+Caso seja usuário Linux, é importante que o driver de sua placa de vídeo esteja devidamente instalado. Seguem os guias oficiais de instalação para: [NVIDIA](https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html) e [AMD](https://www.amd.com/en/support/kb/faq/gpu-643)
 
 ## Dependências 
   
