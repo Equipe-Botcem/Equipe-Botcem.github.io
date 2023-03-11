@@ -72,7 +72,7 @@ cmake ..
 make 
  ``` 
  
- O binário(Executável) é copiado para a pasta '../bin' depois de ter compilado o código.
+O binário (executável) é gerado dentro da pasta `FIRASim/bin` após compilação do código.
  
  Para rodar o programa, execute-o como qualquer outro programa em C('./FIRASim' dentro da pasta do binário), ou, mais recomendado, dentro da pasta 'build' inserir no terminal './../bin/FIRASim'.
  
