@@ -22,7 +22,7 @@ O repositório contendo o código fonte e os manuais de instalação estão cont
   
 O FIRASim depende de: 
   
-- C++
+- [C++](https://en.cppreference.com/w/)
 - [CMake](https://cmake.org/) version 3.5+
 - [OpenGL](https://www.opengl.org)
 - [Qt5 Development Libraries](https://www.qt.io)
