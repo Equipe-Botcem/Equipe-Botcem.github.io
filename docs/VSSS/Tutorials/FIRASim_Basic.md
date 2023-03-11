@@ -31,10 +31,10 @@ O FIRASim depende de:
 
 ## Instalação em Ubuntu
   
-Primeiramente, instale as dependências já citadas:
+Primeiramente, abra um terminal e instale as dependências já citadas:
 
- ```bash 
- $ sudo apt-get install git build-essential cmake qt5-default libqt5opengl5-dev libgl1-mesa-dev libglu1-mesa-dev libprotobuf-dev protobuf-compiler libode-dev libboost-dev 
+```bash 
+sudo apt-get install git build-essential cmake qt5-default libqt5opengl5-dev libgl1-mesa-dev libglu1-mesa-dev libprotobuf-dev protobuf-compiler libode-dev libboost-dev 
  ``` 
  
  Compile e instale VartTypes de seu source, usando git:
