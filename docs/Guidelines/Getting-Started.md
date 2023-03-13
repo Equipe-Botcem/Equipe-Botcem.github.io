@@ -14,6 +14,8 @@ Dentre as habilidades no curso, as principais são:
   - [Usar Markdown](https://github.com/skills/communicate-using-markdown)
   - Criar e [Revisar Pull Requests](https://github.com/skills/review-pull-requests)
   - [Navegar pelo histórico dos repositórios](https://github.com/skills/connect-the-dots)
+
+  {: .highlight }
   > Mas se quiser dar uma olhada nas outras habilidades, sinta-se à vontade! Conhecimento nunca é demais. :)
 - **Python:** É uma linguagem de programação extremamente versátil que permite a prototipagem rápida e fácil de ideias.\
   Aqui estão alguns links para aprender Python:

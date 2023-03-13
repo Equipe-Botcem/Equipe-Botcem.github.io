@@ -28,6 +28,7 @@ nav_order: NÚMERO_DA_ORDEM # O número da ordem é usado para ordenar as págin
 ---
 ```
 
+{: .highlight }
 > Para mais detalhes, leia a [documentação do Just the Docs](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) ou veja os arquivos Markdown já existentes na pasta [`docs`](https://github.com/Equipe-Botcem/Equipe-Botcem.github.io/tree/main/docs).
 
 ## Seção 2: Visualizando as alterações localmente
@@ -38,4 +39,5 @@ Mas em resumo, é necessário instalar o Jekyll. Para isso, siga as [instruçõe
 
 Após a instalação, basta executar o comando `bundle install` na pasta `docs` do repositório seguido com `bundle exec jekyll serve`. O site será hosteado localmente na porta 4000. Para acessar, basta abrir o navegador e digitar [`localhost:4000`](http://localhost:4000).
 
+{: .highlight }
 > Qualquer alteração nos arquivos `Gemfile` ou `Gemfile.lock` deve ser commitada com as alterações na Wiki.
