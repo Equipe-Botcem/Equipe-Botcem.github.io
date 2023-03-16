@@ -24,7 +24,7 @@ logo: "assets/img/logo_bot.png"
 email: botcemadm@gmail.com
 description: Wiki geral da Equipe Botcem!
 github_username:  Equipe-Botcem
-
+url: https://Equipe-Botcem.github.io/
 # Build settings
 
 #remote_theme: pages-themes/minimal@v0.2.0
