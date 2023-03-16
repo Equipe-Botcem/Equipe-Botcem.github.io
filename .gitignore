@@ -16,3 +16,9 @@ licenses/
 # Add your folders to ignore here
 config/*-track.json
 .coverage
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

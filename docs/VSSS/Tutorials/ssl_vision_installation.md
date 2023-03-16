@@ -1,3 +1,7 @@
+---
+parent: VSSS
+nav_order: 20
+---
 # Instalação e execução do SSL Vision  
 
 ## Introdução  

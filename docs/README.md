@@ -1,3 +1,9 @@
+---
+has_children: false
+title: Home
+nav_order: -1
+permalink: /
+---
 # Wiki Geral da Equipe Botcem
 
 Olá, BotDev! Aqui você encontrará a documentação dos projetos da equipe Botcem.
@@ -13,6 +19,6 @@ Aqui você encontrará links e dicas gerais sobre a Equipe, como: habilidades b�
 Aqui você encontrará links e dicas específicas sobre cada projeto da equipe, como: como começar, como usar, etc.
 
 - [VSSS](./VSSS/Getting-Started.md)
+- [Sumô](Sumô/Getting-Started.md)
+- [Seguidor de Linha](Seguidor-De-Linha/Getting-Started.md)
 - [Combate](./Combate/Getting-Started.md)
-- [Sumô](./Sumo/Getting-Started.md)
-- [Seguidor de Linha](./Seguidor/Getting-Started.md)
