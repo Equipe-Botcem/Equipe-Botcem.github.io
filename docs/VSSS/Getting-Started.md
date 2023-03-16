@@ -15,5 +15,5 @@ Olá! Aqui estão os principais links que você, lindo estudante que acabou de i
 
 ## Tutoriais
 
-[Guia de instalação e execução do FIRASim](./Tutorials/FIRASim_Basic.md)  
+[Guia de instalação e execução do FIRASim](./Tutorials/FIRASim-Basics.md)  
 [Guia de instalação e execução do SSLVision](./Tutorials/ssl_vision_installation.md)
