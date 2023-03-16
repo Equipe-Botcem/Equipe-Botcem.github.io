@@ -34,6 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 source "https://rubygems.org"
 gem "nokogiri"
-gem "rack", "~> 2.2.4"
+gem "rack", "~> 2.2.6"
 gem "rspec"
 gem "webrick", "~> 1.8"
