@@ -11,7 +11,7 @@ O Scrum é uma metodologia utilizada para gerenciar projetos de forma colaborati
 De forma resumida, os papéis no Scrum são:
 - **Product Owner (Capitania):** responsável por definir os objetivos gerais do projeto e priorizar as tarefas.
 - **Scrum Master (Gerente):** responsável por garantir que o Scrum esteja sendo seguido e que o time esteja funcionando bem. Também é responsável por remover eventuais obstáculos do time.
-- **Time de Desenvolvimento (Equipe):** responsáveis por efetivamente desenvolver o projeto.
+- **Time de Desenvolvimento (Célula):** responsáveis por efetivamente desenvolver o projeto.
 
 ## Planejamento do Shape
 
