@@ -20,6 +20,10 @@ Dentre as habilidades no curso, as principais são:
   {: .highlight }
   > Mas se quiser dar uma olhada nas outras habilidades, sinta-se à vontade! Conhecimento nunca é demais. :)
 
+- **Git:** O Git é um sistema de controle de versão utilizado para gerenciar o código dos projetos. É importante que você entenda como ele funciona e como você pode contribuir para os projetos.
+  - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
+  - [Git Tutorial for Intermediates](https://www.youtube.com/watch?v=DVRQoVRzMIY)
+
 - **Python:** É uma linguagem de programação extremamente versátil que permite a prototipagem rápida e fácil de ideias.\
   Aqui estão alguns links para aprender Python:
   - [**The NeuralNine Python Self-Study Curriculum (4 Weeks)**](https://github.com/NeuralNine/python-curriculum)**:** É um curso de 4 semanas para aprender Python que vai te ensinar desde o básico até o avançado.\

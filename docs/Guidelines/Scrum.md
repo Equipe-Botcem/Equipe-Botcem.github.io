@@ -32,7 +32,7 @@ De forma geral, o planejamento do Sprint é feito em três etapas:
 3. Durante a reunião, os planejamentos individuais são discutidos e avaliados para garantir que as tarefas escolhidas fazem sentido. Caso contrário, outras tarefas devem ser escolhidas.
 
 {: .important}
-É importante ressaltar que cada membro da equipe deve ter autonomia para tomar decisões relacionadas às tarefas e objetivos do projeto.\
+> É importante ressaltar que cada membro da equipe deve ter autonomia para tomar decisões relacionadas às tarefas e objetivos do projeto.\
 Além disso, é interessante que reuniões de acompanhamento sejam realizadas para garantir que o projeto esteja seguindo no caminho correto.
 
 ## Tratamento de ideias, bugs e tarefas
