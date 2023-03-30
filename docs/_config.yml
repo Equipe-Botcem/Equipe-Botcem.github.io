@@ -102,11 +102,11 @@ callouts:
   highlight:
     color: yellow
   note:
-    title: Note
+    title: Nota
     color: purple
   warning:
-    title: Warning
+    title: Atenção
     color: red
   important:
-    title: Important
+    title: Importante
     color: blue
