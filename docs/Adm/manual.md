@@ -1,4 +1,7 @@
+---
+has_children: false
 
+---
 # Manual da ADM 
 
 
