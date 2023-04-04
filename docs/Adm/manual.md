@@ -1,3 +1,9 @@
+---
+has_children: false # Se essa página tiver subpáginas, colocar true
+parent: NOME_DA_PAGINA_PAI # Caso essa página seja uma subpágina 
+nav_order: NÚMERO_DA_ORDEM # O número da ordem é usado para ordenar as páginas na barra lateral
+---
+
 # Manual da ADM 
 
 
