@@ -2,7 +2,7 @@
 has_children: false
 
 ---
-# REGULAMENTO INTERNO
+# Regulamento interno
 
 **Setembro de 2022  
 JOINVILLE**
