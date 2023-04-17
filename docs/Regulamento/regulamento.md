@@ -186,15 +186,15 @@ A pontuação das atividades poderá ser de:
   - § 3º - No caso de 4 atrasos, a capitania e conselhos dos gerentes discutirá medidas a serem tomadas.
 
 **Art.2º** - É de responsabilidade exclusivamente do membro procurar o responsável pelo controle de presença para  justificar sua ausência.
-  - § 1º - Na primeira ocorrência do semestre de falta sem justificativa será aplicada uma notificação;
-  - § 2º - Na segunda ocorrência do semestre será enviada uma advertência;
-  - § 3º - Na terceira ocorrência do semestre o membro está sujeito a expulsão da equipe.
+  - § 1º - Na **primeira ocorrência** do semestre de falta sem justificativa será aplicada uma **notificação**;
+  - § 2º - Na **segunda ocorrência** do semestre será enviada uma **advertência**;
+  - § 3º - Na **terceira ocorrência** do semestre o membro está sujeito a **expulsão** da equipe.
 
-**Art.3º** - As justificativas de ausência em reunião deverão ser feitas dentro dos seguintes períodos (sujeito a não homologação da justificativa):
-  - § 1º - Com pelo menos 8 horas de antecedência: provas, trabalho;
-  - § 2º - Com pelo menos 2 horas de antecedência: motivos médicos, motivos familiares;
-  - § 3º - Com pelo menos 10 min de antecedência: interdição de vias de transporte;
-  - § 4º - Sem antecedência (exceção, não deve acontecer): motivos médicos, motivos familiares. Justificativas sem antecedência devem ser analisadas uma a uma pelo conselho de gerentes e capitania.
+**Art.3º** - As **justificativas de ausência** em reunião deverão ser feitas dentro dos seguintes períodos (sujeito a não homologação da justificativa):
+  - § 1º - Com pelo menos **8 horas de antecedência**: provas, trabalho;
+  - § 2º - Com pelo menos **2 horas de antecedênci**a: motivos médicos, motivos familiares;
+  - § 3º - Com pelo menos **10 min de antecedência**: interdição de vias de transporte;
+  - § 4º - **Sem antecedência** (exceção, não deve acontecer): motivos médicos, motivos familiares. Justificativas sem antecedência devem ser analisadas uma a uma pelo conselho de gerentes e capitania.
 
   Parágrafo único – faltas em reuniões por motivos de não estar na faculdade nos respectivos dias não serão justificadas para aqueles que não responderam à pesquisa de escolha de data realizada no início do semestre.
 
