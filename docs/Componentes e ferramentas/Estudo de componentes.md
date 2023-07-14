@@ -2,7 +2,7 @@
 parent: VSSS
 nav_order: 10
 ---
-# Getting Started to VSSS (Futebol)
+# Estudo de componentes
 
 Olá! Aqui estão os principais links que você, lindo estudante que acabou de iniciar na melhor célula da Equipe, precisa ver, entender e utilizar:
 
