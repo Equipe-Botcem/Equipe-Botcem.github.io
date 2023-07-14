@@ -1,5 +1,5 @@
 ---
-parent: Componentes e ferramentas
+parent: Componentes E Ferramentas
 nav_order: 20
 ---
 # 
