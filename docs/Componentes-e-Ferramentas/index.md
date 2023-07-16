@@ -1,5 +1,5 @@
 ---
-nav_order: 10  # Ordem que vai aparecer no menu à esquerda
+nav_order: 11  # Ordem que vai aparecer no menu à esquerda
 title: Componentes e Ferramentas  # O que vai aparecer no menu à esquerda
 has_children: true  # Se possui sub-páginas
 ---
