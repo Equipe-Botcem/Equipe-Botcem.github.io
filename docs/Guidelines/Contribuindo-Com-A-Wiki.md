@@ -3,22 +3,32 @@ parent: Guidelines
 nav_order: 20
 ---
 # Contribuindo com a Wiki
+{: .no_toc }
 
 Olá! Aqui você vai encontrar passo-a-passos de como contribuir com a Wiki da Equipe.
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Seção 0: O que é a Wiki?
 
-A Wiki é um espaço de registro de informações sobre a Equipe e seus projetos. Ela é hosteada no GitHub por meio do [GitHub Pages](https://pages.github.com/) no repositório [Equipe-Botcem.github.io](https://github.com/Equipe-Botcem/Equipe-Botcem.github.io). Qualquer membro da equipe pode contribuir com a Wiki, basta criar Issues e Pull Requests nesse mesmo repositório citado (se você não sabe o que é isso, recomendamos dar uma olhada no nosso [Guia Inicial](./Getting-Started.md)).
+A Wiki é um espaço de registro de informações sobre a Equipe e seus projetos. Ela é hosteada no GitHub por meio do [GitHub Pages](https://pages.github.com/) no repositório [Equipe-Botcem.github.io](https://github.com/Equipe-Botcem/Equipe-Botcem.github.io). Qualquer membro da equipe pode contribuir com a Wiki, basta criar **Issues** e **Pull Requests** nesse mesmo repositório citado (se você não sabe o que é isso, recomendamos dar uma olhada no nosso [Guia Inicial](./Getting-Started.md)).
 
-Cada página é facilmente criada e editada em arquivos Markdown. Assim que uma alteração é feita na branch principal, o Workflow do GitHub Pages atualiza o site automaticamente. Porém, é possível visualizar as alterações localmente com o [Jekyll](https://jekyllrb.com/) (mais detalhes adiante).
+Cada página é facilmente criada e editada em **arquivos Markdown**. Assim que uma alteração é feita na branch principal, o Workflow do GitHub Pages atualiza o site automaticamente. Porém, é possível [**visualizar as alterações localmente**](#seção-1-visualizando-as-alterações-localmente) com o [Jekyll](https://jekyllrb.com/) (mais detalhes adiante).
 
 ## Seção 1: Visualizando as alterações localmente
 
-É interessante visualizar as alterações localmente antes de commitá-las para a branch principal. O próprio GitHub fornece um tutorial de como testar as alterações localmente [aqui](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). 
+É interessante visualizar as alterações localmente antes de commitá-las para a branch principal. O próprio GitHub fornece um tutorial de como testar as alterações localmente [aqui](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
-Mas em resumo, é necessário instalar o Jekyll. Para isso, siga as [instruções de instalação](https://jekyllrb.com/docs/installation/) no site oficial de acordo com seu Sistema Operacional.
+Mas **em resumo**, é necessário instalar o **Ruby** e o **Jekyll**. Para isso, siga as [instruções de instalação](https://jekyllrb.com/docs/installation/) no site oficial de acordo com seu Sistema Operacional.
 
-Após a instalação, basta executar o comando `bundle install` na pasta `docs` do repositório seguido com `bundle exec jekyll serve`. O site será hosteado localmente na porta 4000. Para acessar, basta abrir o navegador e digitar [`localhost:4000`](http://localhost:4000).
+> Para usuários **Windows**, o caminho mais fácil é instalar por meio do [RubyInstaller (Ruby + DevKit)](https://rubyinstaller.org/downloads/).\
+> Para usuários **Ubuntu**, o caminho mais fácil é instalar por meio do [Gerenciador de Pacotes do Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/).
+
+Após a instalação, basta executar o comando `bundle install` a partir da pasta `docs` do repositório (`cd docs`) seguido de `bundle exec jekyll serve`. O site será hosteado localmente na porta 4000. Para acessar, basta abrir o navegador e digitar [`localhost:4000`](http://localhost:4000).
 
 {: .highlight }
 > Qualquer alteração nos arquivos `Gemfile` ou `Gemfile.lock` deve ser commitada com as alterações na Wiki.
