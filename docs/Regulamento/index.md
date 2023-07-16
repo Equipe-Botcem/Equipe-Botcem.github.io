@@ -1,6 +1,7 @@
 ---
-has_children: false
-
+nav_order: 20  # Ordem que vai aparecer no menu à esquerda
+title: Regulamento interno  # O que vai aparecer no menu à esquerda
+has_children: false  # Se possui sub-páginas
 ---
 # Regulamento interno
 

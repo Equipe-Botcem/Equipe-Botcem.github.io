@@ -1,6 +1,8 @@
 ---
-has_children: false
-
+nav_order: 30  # Ordem que vai aparecer no menu à esquerda
+title: Manual da ADM  # O que vai aparecer no menu à esquerda
+has_children: false  # Se possui sub-páginas
+permalink: /Manual-ADM  # Link na URL do navegador
 ---
 # Manual da ADM 
 

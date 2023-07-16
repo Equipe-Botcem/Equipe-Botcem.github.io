@@ -1,6 +1,8 @@
 ---
-parent: Componentes e ferramentas
-nav_order: 10
+parent: Componentes e Ferramentas  # Título da página pai como definido no index.md
+nav_order: 10  # Ordem que vai aparecer no menu à esquerda
+title: Getting Started  # O que vai aparecer no menu à esquerda
+has_children: false  # Se possui sub-páginas
 ---
 # Getting Started Componentes e ferramentas
 

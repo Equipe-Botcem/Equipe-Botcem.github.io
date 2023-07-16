@@ -23,4 +23,4 @@ Aqui você encontrará links e dicas específicas sobre cada projeto da equipe, 
 - [Sumô](./Sumô/Getting-Started.md)
 - [Seguidor de Linha](./Seguidor-De-Linha/Getting-Started.md)
 - [Combate](./Combate/Getting-Started.md)
-- [ADM](./Adm/manual.md)
+- [ADM](./Adm/index.md)
