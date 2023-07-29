@@ -35,9 +35,11 @@ Após a instalação, basta executar o comando `bundle install` a partir da past
 
 ## Seção 2: Criando uma página
 
-Para criar uma página, basta criar um arquivo Markdown na pasta `docs` com o nome da página. Por exemplo, se você quiser criar uma página chamada `Minha Primeira Página`, basta criar um arquivo chamado `Minha-Primeira-Pagina.md` na pasta `docs` (o nome do arquivo deve ser escrito preferencialmente em [Train-Case](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Examples_of_multiple-word_identifier_formats)).
+Para criar uma página, basta criar um arquivo Markdown na pasta `docs` com o nome da página. Por exemplo, se você quiser criar uma página chamada `Minha Página`, basta criar um arquivo chamado `Minha-Pagina.md` dentro da pasta `docs` **(o nome do arquivo deve ser escrito preferencialmente em [<nobr>Train-Case</nobr>](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Examples_of_multiple-word_identifier_formats))**. O link final para essa página, após finalizada, será `https://equipe-botcem.github.io/Minha-Pagina/`.
 
-O link final para essa página, após finalizada, será `https://equipe-botcem.github.io/Minha-Primeira-Pagina/`. Pode-se criar subpastas para organizar melhor as páginas, por exemplo, `docs/Projeto-X/Minha-Primeira-Pagina.md`. Nesse caso, o link final será `https://equipe-botcem.github.io/Projeto-X/Minha-Primeira-Pagina/`. 
+Para criar uma sub-página, basta criar uma página dentro de alguma seção, por exemplo, `docs/Projeto-X/Minha-Pagina`. O link final para essa página, após finalizada, será `https://equipe-botcem.github.io/Projeto-X/Minha-Pagina/`.
+
+{: .highlight }
 
 No início de cada arquivo Markdown, deve-se colocar o seguinte código yaml:
 
@@ -47,6 +49,7 @@ parent: NOME_DA_PAGINA_PAI # Caso essa página seja uma sub-página
 nav_order: NÚMERO_DA_ORDEM  # Ordem que vai aparecer no menu à esquerda
 title: TÍTULO  # O que vai aparecer no menu à esquerda
 has_children: true  # Se possui sub-páginas
+# permalink: /NOME_DA_PAGINA/  # Caso queira um link personalizado
 ---
 ```
 
@@ -55,7 +58,7 @@ has_children: true  # Se possui sub-páginas
 
 ## Seção 3: Criando uma seção
 
-Para criar uma (sub)seção, basta criar uma pasta com o nome da seção e, dentro dela, adicionar um arquivo `index.md`. Ela será a página inicial da seção, ou seja, ao clicar no link da seção, o usuário será redirecionado para essa página.
+Pode-se também criar (sub)seções para melhor organizar as páginas, basta criar uma pasta com o nome da seção e, dentro dela, adicionar um arquivo `index.md`. Ele será a página inicial da seção, ou seja, ao clicar no link da seção, o usuário será redirecionado para essa página.
 
 Além disso, ela funciona como uma página normal, ou seja, deve-se colocar o seguinte código yaml no início do arquivo:
 
@@ -64,5 +67,6 @@ Além disso, ela funciona como uma página normal, ou seja, deve-se colocar o se
 nav_order: NÚMERO_DA_ORDEM  # Ordem que vai aparecer no menu à esquerda
 title: TÍTULO  # O que vai aparecer no menu à esquerda
 has_children: true  # Se possui sub-páginas
+# permalink: /NOME_DA_PAGINA/  # Caso queira um link personalizado
 ---
 ```
