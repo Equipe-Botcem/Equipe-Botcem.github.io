@@ -17,7 +17,7 @@ As pontes H são circuitos eletrônicos amplamente utilizados para controle de m
 O funcionamento da ponte H é baseado na alternância do fluxo de corrente que atravessa o motor. Isso é feito através do acionamento de quatro chaves (geralmente transistores ou relés) que controlam a direção da corrente. A configuração das chaves forma um "H", daí o nome "ponte H".
 
 ## Modelos
-Existem vários modelos de pontes H disponíveis no mercado, cada um com suas próprias especificações e adequados para diferentes aplicações. Neste documento, focaremos em quatro modelos: L298N, DRV8833, TB6612 e TB9051FTG.
+Existem vários modelos de pontes H disponíveis no mercado, cada um com suas próprias especificações e adequados para diferentes aplicações. Neste documento, focaremos em quatro modelos que ja ultilizamos na equipe: L298N, DRV8833, TB6612 e TB9051FTG.
 
 ### L298N
 O modelo mais comumente vendido de ponte H para uso em Arduino é o L298N porém não costumamos ultiliza-la nos projetos a mais de 6 anos.  Está pornte h é excessivamente grande e possui muita perda de potencia em forma de calor, além de não possuir vantagens econômicas em relação as outras.
