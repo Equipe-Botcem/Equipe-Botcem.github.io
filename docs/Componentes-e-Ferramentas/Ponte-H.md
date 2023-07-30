@@ -16,7 +16,7 @@ has_children: false  # Se possui sub-páginas
 7. [Cuidados](#Cuidados)
 8. [SMD](#SMD)
 
-## Introdução 
+## Introdução
 As pontes H são circuitos eletrônicos amplamente utilizados para controle de motores de corrente contínua (DC). Elas permitem que o motor gire em ambas as direções, horária e anti-horária, o que é fundamental em aplicações de robótica e automação.
 
 ![Ponte H Genérica L298N](Images/pontehgenerica.JPG)
@@ -88,7 +88,7 @@ Para implementar uma ponte H em seu projeto, você precisará fazer as seguintes
 3. Carregue o código no seu microcontrolador para controlar a ponte H. Você precisará enviar os comandos corretos para as entradas de controle para fazer o motor girar em uma direção ou na outra, e possivelmente para controlar a velocidade do motor através do PWM.
 4. Teste seu sistema para garantir que tudo está funcionando corretamente. Se você tiver problemas, verifique suas conexões e seu código.
 
-## Cuidados 
+## Cuidados
 
 Ao trabalhar com uma ponte H, há algumas precauções que você deve tomar:
 
@@ -98,7 +98,7 @@ Ao trabalhar com uma ponte H, há algumas precauções que você deve tomar:
 4. Se estiver usando uma ponte H que suporta PWM, certifique-se de que a frequência do PWM é compatível com a ponte H.
 5. Se a sua ponte H tiver proteção térmica, fique atento para sinais de superaquecimento. Se a ponte H estiver se desligando inesperadamente, pode ser porque está muito quente.
 
-## SMD 
+## SMD
 
 Os modelos de ponte H discutidos acima são normalmente encontrados em módulos de breakout, que são placas de circuito impresso (PCBs) que facilitam o uso desses chips em um projeto. No entanto, também é possível comprar esses chips como dispositivos de montagem em superfície (SMD), que podem ser soldados diretamente em seu próprio PCB.
 
@@ -108,7 +108,7 @@ Ao usar uma ponte H SMD, você ainda terá que fornecer os mesmos tipos de conex
 
 Note que alguns modelos de pontes H SMD podem ter funcionalidades adicionais ou diferentes dos modelos de breakout correspondentes, então sempre consulte o datasheet do chip específico que você está usando.
 
-### Implementação 
+### Implementação
 
 Um modelo de estudos foi montado e testado utilizando o CI **TB6612** O circuito de proteção projetado foi inspirado no melhor modelo encontrado por nós no mercado da marca [Pololu](https://www.pololu.com/product/713), desta forma usamos um CI de ótimo custo benefício integrado à placa. Esta configuração foi testada, funciona e pode ser implementada em uma PCB. É possível inclusive fazer conexões em paralelo para trabalhar com mais corrente ou como backup caso alguém queime. 
 
