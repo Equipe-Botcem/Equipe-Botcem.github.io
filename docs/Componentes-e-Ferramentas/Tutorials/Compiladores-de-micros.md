@@ -11,12 +11,32 @@ Neste guia iremos discutir os dois principais ambientes que ultilizamos para pro
 
 ## Índice
 
-1. [Instalação e Configuração](#instalação-e-configuração)
+1. [Comparação entre Arduino IDE e PlatformIO](#comparação-entre-arduino-ide-e-platformio)
+2. [Instalação e Configuração](#instalação-e-configuração)
     - [Visual Studio Code](#visual-studio-code)
     - [PlatformIO](#platformio)
     - [GitHub](#github)
     - [Arduino IDE](#arduino-ide)
-2. [Comparação entre Arduino IDE e PlatformIO](#comparação-entre-arduino-ide-e-platformio)
+
+## Comparação entre Arduino IDE e PlatformIO
+
+Ao desenvolver projetos com Arduino ou ESP32, você pode escolher usar a Arduino IDE ou o PlatformIO. Ambos têm suas vantagens e desvantagens.
+
+### Arduino IDE
+
+1. **Facilidade de uso:** Arduino IDE tem uma interface de usuário mais simples e é mais fácil para iniciantes.
+2. **Compatibilidade:** Suporta todas as placas Arduino e algumas outras placas compatíveis.
+3. **Código aberto:** Arduino IDE é software livre e de código aberto.
+4. **Menos recursos:** Comparado ao PlatformIO, o Arduino IDE tem menos recursos avançados.
+
+### PlatformIO
+
+1. **Integração com VS Code:** PlatformIO é integrado ao Visual Studio Code, o que proporciona um ambiente de desenvolvimento mais avançado e completo.
+2. **Facilidade para encontrar bibliotecas:** PlatformIO tem uma ferramenta embutida para pesquisar e instalar bibliotecas, o que facilita bastante o processo.
+3. **Suporte a múltiplas placas e plataformas:** PlatformIO suporta mais de 30 plataformas diferentes, incluindo Arduino e ESP32.
+4. **Controle de versão:** Tem integração com Git e outras ferramentas de controle de versão.
+5. **Dependências de gerenciamento:** PlatformIO tem um sistema para gerenciar dependências de bibliotecas e frameworks.
+6. **Recursos avançados do VS Code:** Como é integrado ao VS Code, você pode aproveitar todos os plugins e ferramentas disponíveis nesse editor.
 
 ## Instalação e Configuração
 
@@ -69,24 +89,6 @@ O Arduino IDE é um ambiente de desenvolvimento integrado open-source criado pel
 2. Clique em "Download" e escolha o sistema operacional correto.
 3. Siga as instruções de instalação na tela.
 
-## Comparação entre Arduino IDE e PlatformIO
-
-Ao desenvolver projetos com Arduino ou ESP32, você pode escolher usar a Arduino IDE ou o PlatformIO. Ambos têm suas vantagens e desvantagens.
-
-### Arduino IDE
-
-1. **Facilidade de uso:** Arduino IDE tem uma interface de usuário mais simples e é mais fácil para iniciantes.
-2. **Compatibilidade:** Suporta todas as placas Arduino e algumas outras placas compatíveis.
-3. **Código aberto:** Arduino IDE é software livre e de código aberto.
-4. **Menos recursos:** Comparado ao PlatformIO, o Arduino IDE tem menos recursos avançados.
-
-### PlatformIO
-
-1. **Integração com VS Code:** PlatformIO é integrado ao Visual Studio Code, o que proporciona um ambiente de desenvolvimento mais avançado e completo.
-2. **Suporte a múltiplas placas e plataformas:** PlatformIO suporta mais de 30 plataformas diferentes, incluindo Arduino e ESP32.
-3. **Controle de versão:** Tem integração com Git e outras ferramentas de controle de versão.
-4. **Dependências de gerenciamento:** PlatformIO tem um sistema para gerenciar dependências de bibliotecas e frameworks.
-
 ---
 
-Esperamos que este guia tenha ajudado a instalar e configurar o Visual Studio Code, PlatformIO, GitHub e Arduino IDE, e a entender as diferenças entre Arduino IDE e PlatformIO. Se você tiver alguma dúvida, sinta-se à vontade para perguntar!
+Esperamos que este guia tenha ajudado a entender as diferenças entre Arduino IDE e PlatformIO e a instalar e configurar o Visual Studio Code, PlatformIO, GitHub e Arduino IDE. Se você tiver alguma dúvida, sinta-se à vontade para perguntar!
