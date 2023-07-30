@@ -13,6 +13,8 @@
 ## Introdução 
 As pontes H são circuitos eletrônicos amplamente utilizados para controle de motores de corrente contínua (DC). Elas permitem que o motor gire em ambas as direções, horária e anti-horária, o que é fundamental em aplicações de robótica e automação.
 
+![Ponte H Genérica L298N](Images/pontehgenerica.JPG)
+
 ## Funcionamento
 O funcionamento da ponte H é baseado na alternância do fluxo de corrente que atravessa o motor. Isso é feito através do acionamento de quatro chaves (geralmente transistores ou relés) que controlam a direção da corrente. A configuração das chaves forma um "H", daí o nome "ponte H".
 
@@ -22,14 +24,23 @@ Existem vários modelos de pontes H disponíveis no mercado, cada um com suas pr
 ### L298N
 O modelo mais comumente vendido de ponte H para uso em Arduino é o L298N porém não costumamos ultiliza-la nos projetos a mais de 6 anos.  Está pornte h é excessivamente grande e possui muita perda de potencia em forma de calor, além de não possuir vantagens econômicas em relação as outras.
 
+![L298N](Images/l298n.jpg)
 ### DRV8833
 É uma ótima opção pequena e barata, conseguimos comprar da china por 3 reais e no Brasil por 25, sua maior limitação esta na tensão entre  2,7 a 10,8 volts porém usualmente conseguimos usar até 12v.
+
+![DVR8833](Images/DRV8833-Dual-Driver-Circuit.jpg)
+![DVR8833pinout](Images/DRV8833-Dual-Driver-Pinout.jpg)
 
 ### TB6612
 É uma opção melhor em relação a DVR8833 pois trabalha com uma tensão de até 13,5V. Mas seu custo é 3x maior na china por volta de 7 reais e aqui no Brasil quase 5x mais caro chegando a 70 reais.
 
+![TB6612](Images/driver-tb6612.jpg)
+![TB6612_2](Images/driver-tb6612_4.jpg)
+
 ### TB9051FTG
 É uma ponte H muito boa que foi importada da Pololu para o seguidor de linha, possui feedback de corrente, trabalha em uma boa faixa de tensão, a melhor que já usamos, mas seu custo de compra e de importação ficam muito longe de justificar o seu uso.
+
+![TB9051FTG](Images/TB9051FTG.jpg)
 
 ## Comparação
 Aqui está uma comparação rápida dos quatro modelos.
@@ -53,10 +64,10 @@ Aqui estão os prós e contras de cada modelo.
 
 | Módulo | Prós | Contras |
 |--------|------|---------|
-| L298N  | Alta tensão de alimentação do motor. Fácil de usar e muito popular, com muitos recursos e exemplos disponíveis online. | Baixa eficiência. Não possui proteção térmica. Maior em tamanho em comparação aos outros módulos. Não possui modo de standby/desligamento. |
-| TB6612 | Mais eficiente que o L298N. Tensão lógica variável torna-o compatível com diversos microcontroladores. Possui proteção térmica e modo de standby/desligamento. | Corrente máxima menor que L298N e TB9051FTG. Não possui indicador de erro nem proteção contra inversão de polaridade. |
-| DRV8833 | Suporta a menor tensão lógica e de alimentação do motor, tornando-o ideal para pequenos robôs. Possui regulação de corrente, proteção térmica e modo de standby/desligamento. | Corrente máxima é menor comparada aos outros módulos. Não possui indicador de erro nem proteção contra inversão de polaridade. |
-| TB9051FTG | Alta corrente de pico. Tensão lógica variável torna-o compatível com diversos microcontroladores. Possui indicador de erro e proteção contra inversão de polaridade. | Possui apenas um canal, enquanto os outros módulos possuem dois. Não suporta regulação de corrente. |
+| **L298N**  | Alta tensão de alimentação do motor. Fácil de usar e muito popular, com muitos recursos e exemplos disponíveis online. | Baixa eficiência. Não possui proteção térmica. Maior em tamanho em comparação aos outros módulos. Não possui modo de standby/desligamento. |
+| **TB6612** | Mais eficiente que o L298N. Tensão lógica variável torna-o compatível com diversos microcontroladores. Possui proteção térmica e modo de standby/desligamento. | Corrente máxima menor que L298N e TB9051FTG. Não possui indicador de erro nem proteção contra inversão de polaridade. |
+| **DRV8833** | Suporta a menor tensão lógica e de alimentação do motor, tornando-o ideal para pequenos robôs. Possui regulação de corrente, proteção térmica e modo de standby/desligamento. | Corrente máxima é menor comparada aos outros módulos. Não possui indicador de erro nem proteção contra inversão de polaridade. |
+| **TB9051FTG** | Alta corrente de pico. Tensão lógica variável torna-o compatível com diversos microcontroladores. Possui indicador de erro e proteção contra inversão de polaridade. | Possui apenas um canal, enquanto os outros módulos possuem dois. Não suporta regulação de corrente. |
 
 ## Aplicações
 As pontes H são amplamente utilizadas em uma variedade de aplicações, desde pequenos brinquedos controlados por rádio até sistemas de controle de movimento mais complexos, como robôs e veículos elétricos.
@@ -95,5 +106,22 @@ Note que alguns modelos de pontes H SMD podem ter funcionalidades adicionais ou 
 
 Um modelo de estudos foi montado e testado utilizando o CI **TB6612** o circuito de proteção projetado foi inspirado no melhor modelo encontrado por nos no mercado da marca [Pololu](https://www.pololu.com/product/713), desta forma usamos um CI de ótimo custo beneficio integrado a placa. Esta configuração foi testada, funciona e pode ser implementada em uma PCB. É possível inclusive fazer conexões em paralelo para trabalhar com mais corrente ou como backup caso alguma queime. 
 
+Com este projeto é possivel projetar placas com ponte H integrada, com confiabilidade muito alta, dimensoes menores e menor peso.
+
+Ponte H SMD:
+
+![SMD](Images/TB6612SMD.png)
+
 A seguir esta descrito o circuito implementado: 
 ![circuito de proteção ponte H](Images/Circuito_ponteh.jpeg)
+
+Protótipo:
+![prototipo](Images/pontehsmd.jpeg)
+
+#### Componentes sugeridos:
+
+- Mosfet - AO3400A
+- Diodo zener de 6,8v
+
+
+
