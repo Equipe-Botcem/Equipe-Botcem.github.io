@@ -19,20 +19,20 @@ As pontes H são circuitos eletrônicos amplamente utilizados para controle de m
 O funcionamento da ponte H é baseado na alternância do fluxo de corrente que atravessa o motor. Isso é feito através do acionamento de quatro chaves (geralmente transistores ou relés) que controlam a direção da corrente. A configuração das chaves forma um "H", daí o nome "ponte H".
 
 ## Modelos
-Existem vários modelos de pontes H disponíveis no mercado, cada um com suas próprias especificações e adequados para diferentes aplicações. Neste documento, focaremos em quatro modelos que ja ultilizamos na equipe: L298N, DRV8833, TB6612 e TB9051FTG.
+Existem vários modelos de pontes H disponíveis no mercado, cada um com suas próprias especificações e adequados para diferentes aplicações. Neste documento, focaremos em quatro modelos que já utilizamos na equipe: L298N, DRV8833, TB6612 e TB9051FTG.
 
 ### L298N
-O modelo mais comumente vendido de ponte H para uso em Arduino é o L298N porém não costumamos ultiliza-la nos projetos a mais de 6 anos.  Está pornte h é excessivamente grande e possui muita perda de potencia em forma de calor, além de não possuir vantagens econômicas em relação as outras.
+O modelo mais comumente vendido de ponte H para uso em Arduino é o L298N porém não costumamos utilizá-la nos projetos a mais de 6 anos.  Está pornte h é excessivamente grande e possui muita perda de potência em forma de calor, além de não possuir vantagens econômicas em relação às outras.
 
 ![L298N](Images/l298n.jpg)
 ### DRV8833
-É uma ótima opção pequena e barata, conseguimos comprar da china por 3 reais e no Brasil por 25, sua maior limitação esta na tensão entre  2,7 a 10,8 volts porém usualmente conseguimos usar até 12v.
+É uma ótima opção pequena e barata, conseguimos comprar da china por 3 reais e no Brasil por 25, sua maior limitação está na tensão entre  2,7 a 10,8 volts porém usualmente conseguimos usar até 12v.
 
 ![DVR8833](Images/DRV8833-Dual-Driver-Circuit.jpg)
 ![DVR8833pinout](Images/DRV8833-Dual-Driver-Pinout.jpg)
 
 ### TB6612
-É uma opção melhor em relação a DVR8833 pois trabalha com uma tensão de até 13,5V. Mas seu custo é 3x maior na china por volta de 7 reais e aqui no Brasil quase 5x mais caro chegando a 70 reais.
+É uma opção melhor em relação à DVR8833 pois trabalha com uma tensão de até 13,5V. Mas seu custo é 3x maior na china por volta de 7 reais e aqui no Brasil quase 5x mais caro chegando a 70 reais.
 
 ![TB6612](Images/driver-tb6612.jpg)
 ![TB6612_2](Images/driver-tb6612_4.jpg)
@@ -104,9 +104,11 @@ Note que alguns modelos de pontes H SMD podem ter funcionalidades adicionais ou 
 
 ### Implementação 
 
-Um modelo de estudos foi montado e testado utilizando o CI **TB6612** o circuito de proteção projetado foi inspirado no melhor modelo encontrado por nos no mercado da marca [Pololu](https://www.pololu.com/product/713), desta forma usamos um CI de ótimo custo beneficio integrado a placa. Esta configuração foi testada, funciona e pode ser implementada em uma PCB. É possível inclusive fazer conexões em paralelo para trabalhar com mais corrente ou como backup caso alguma queime. 
+Um modelo de estudos foi montado e testado utilizando o CI **TB6612** O circuito de proteção projetado foi inspirado no melhor modelo encontrado por nós no mercado da marca [Pololu](https://www.pololu.com/product/713), desta forma usamos um CI de ótimo custo benefício integrado à placa. Esta configuração foi testada, funciona e pode ser implementada em uma PCB. É possível inclusive fazer conexões em paralelo para trabalhar com mais corrente ou como backup caso alguém queime. 
 
-Com este projeto é possivel projetar placas com ponte H integrada, com confiabilidade muito alta, dimensoes menores e menor peso.
+Com este projeto é possível projetar placas com ponte H integrada, com confiabilidade muito alta, dimensões menores e menor peso.
+
+O circuito de proteção apresentado coloca filtros nas alimentações e adiciona uma proteção entre a alimentação que irá para o motor através da ponte h, a bateria ou a fonte de alimentação primeiro passa pelo circuito e depois vai pra placa.
 
 Ponte H SMD:
 
@@ -122,6 +124,7 @@ Protótipo:
 
 - Mosfet - AO3400A
 - Diodo zener de 6,8v
+
 
 
 
