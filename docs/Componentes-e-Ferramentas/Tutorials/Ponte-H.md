@@ -131,6 +131,7 @@ Protótipo:
 - Mosfet - AO3400A
 - Diodo zener de 6,8v
 
+@André Luís C Barbado - Oz
 
 
 
