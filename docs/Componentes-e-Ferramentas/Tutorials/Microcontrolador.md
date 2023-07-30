@@ -117,3 +117,5 @@ Os preços são variáveis e podem mudar com o tempo e localização, por isso �
 
 Para o Arduino Uno e Arduino Nano, as bibliotecas de suporte, a comunidade de código aberto e a facilidade de uso são pontos fortes. O ESP32 e ESP8266, por outro lado, são ótimos para aplicativos IoT devido aos seus recursos integrados de Wi-Fi e (no caso do ESP32) Bluetooth.
 
+@André Luís C Barbado - Oz
+
