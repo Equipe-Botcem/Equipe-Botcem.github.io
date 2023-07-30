@@ -92,3 +92,6 @@ O Arduino IDE é um ambiente de desenvolvimento integrado open-source criado pel
 ---
 
 Esperamos que este guia tenha ajudado a entender as diferenças entre Arduino IDE e PlatformIO e a instalar e configurar o Visual Studio Code, PlatformIO, GitHub e Arduino IDE. Se você tiver alguma dúvida, sinta-se à vontade para perguntar!
+
+
+@André Luís C Barbado - Oz
