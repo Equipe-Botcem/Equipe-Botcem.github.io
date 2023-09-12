@@ -5,7 +5,7 @@ has_children: false  # Se possui sub-páginas
 ---
 # Regulamento interno
 
-**Setembro de 2022  
+**Setembro de 2023  
 JOINVILLE**
 
 ## CAPÍTULO I - DA EXTENSÃO E ATUALIZAÇÃO DO REGULAMENTO
@@ -45,13 +45,15 @@ JOINVILLE**
 
 ## CAPÍTULO III - DA DIVISÃO INTERNA DA EQUIPE  
 
-**Art.1º** - A divisão da equipe será de acordo com os projetos em desenvolvimento mais a área conjunta de administração e projetos. Atualmente a equipe é dividida em 5 projetos: Combate, Seguidor, Sumô, VSSS e ADM.  
+**Art.1º** - A divisão da equipe será de acordo com os projetos em desenvolvimento mais a área conjunta de administração e projetos. Atualmente a equipe é dividida em 4 projetos: Seguidor, Sumô, VSSS e ADM.  
 
   - § 1º - A célula de ADM, caso tenha número suficiente de membros e aprovação da capitania, pode ser subdividida em células de administração e marketing. Nesse caso, será apontado um gerente de marketing, subordinado ao gerente de administração e com autonomia para gerir os membros alocados a sua célula.  
 
   - § 2º - A alocação ou realocação de um novo membro em uma área se dará com base no seu conhecimento e experiência previamente adquiridos os quais serão avaliados pela capitania e gerentes de projeto envolvidos;  
 
-  - § 3º - Cada projeto dentro da equipe contará com um Gerente de projeto, responsável por auxiliar o capitão da equipe na administração dos projetos.  
+  - § 3º - Cada projeto dentro da equipe contará com um Gerente de projeto, responsável por auxiliar o capitão da equipe na administração dos projetos.
+
+  - § 4º - A categoria de base pode ser desenvolvida como um projeto próprio para os calouros da equipe ou se especificar como uma célula Omega, em que utiliza-se como base um projeto existente da equipe e ele é projetado e construído novamente, visando aprimorar o seu desempenho e crescimento pessoal dos novos membros.
 
 **Art.2º** - Hierarquia dos Cargos é dada na seguinte sequência decrescente: Capitão, Vice-Capitão, Gerente de Célula, Membro geral, Categoria de Base.  
 
@@ -70,23 +72,15 @@ Para esclarecer seu funcionamento, um resumo básico do seu funcionamento é apr
 
 **METODOLOGIA SCRUM**  
 O Scrum será utilizado para gestão de projetos em todas as células da equipe.  
-Sprint: unidade básica de acompanhamento da realização de tarefas  
+Sprint: unidade básica de tempo de acompanhamento da realização de tarefas  
 Tarefas: atividades a serem realizadas  
 Cada tarefa pode ser atribuída a 1 ou mais pessoas  
 Cada tarefa será associada a uma pontuação  
-A pontuação das atividades poderá ser de:  
+Atividades são classificadas da seguinte forma:
 
-**1 ponto**
-
-**2 pontos**
-
-**3 pontos**
-
-**5 pontos**
-
-**8 pontos**
-
-**13 pontos**  
+- Simples: 1 ponto
+- Média: 2 pontos
+- Complexa: 3 pontos
 
 ### Framework básico:
 
@@ -113,13 +107,17 @@ A pontuação das atividades poderá ser de:
 - Presença obrigatória de todos os participantes da equipe  
 - Discussão de assuntos de interesse geral  
 - Realização de briefings dos sprints  
-- Horário definido no início do semestre levando em consideração a disponibilidade do número máximo de membros possível  
+- Horário definido no início do semestre levando em consideração a disponibilidade do número máximo de membros possível
+- Horários de reunião definidos por meio de enquete no Whatsapp sempre na primeira semana de cada semestre
+- Em caso de indisponibilidade do membro em comparecer, caso tenha votado e comunicado à capitania, suas faltas estão justificadas
+- A regra anterior também se aplica a calouros, vide que não fazem parte da votação durante a primeira semana 
 
 **Reunião dos Gerentes (Reunião oficial):**  
 - Reunião semanal  
 - Presença obrigatória para todos os gerentes e capitania  
 - Discussão de planejamento estratégico e operacional  
-- Horário definido pela maioria dos gerentes e capitania  
+- Horário definido pela maioria dos gerentes e capitania
+- Horários de reunião definidos por meio de enquete no Whatsapp após horários de reunião geral serem definidos
 
 **Reunião de Célula (Reunião oficial):**  
 - Reuniões marcadas pelos gerentes de célula com pelo menos 48 horas de antecedência  
@@ -193,7 +191,7 @@ A pontuação das atividades poderá ser de:
 
 **Art.3º** - As **justificativas de ausência** em reunião deverão ser feitas dentro dos seguintes períodos (sujeito a não homologação da justificativa):
   - § 1º - Com pelo menos **8 horas de antecedência**: provas, trabalho;
-  - § 2º - Com pelo menos **2 horas de antecedênci**a: motivos médicos, motivos familiares;
+  - § 2º - Com pelo menos **2 horas de antecedência**: motivos médicos, motivos familiares;
   - § 3º - Com pelo menos **10 min de antecedência**: interdição de vias de transporte;
   - § 4º - **Sem antecedência** (exceção, não deve acontecer): motivos médicos, motivos familiares. Justificativas sem antecedência devem ser analisadas uma a uma pelo conselho de gerentes e capitania.
 
@@ -201,7 +199,7 @@ A pontuação das atividades poderá ser de:
 
 **Art.4º** - Caso seja necessário, mediante aprovação da capitania e  de ⅔ dos gerentes de célula, um membro pode ser colocado em processo re-avaliativo.
 
-**Art.5º** - O processo re-avaliativo se dará através de uma análise rígida pela gerência da equipe durante um período de 30 dias, tendo como base os seguintes tópicos (se aplicável):
+**Art.5º** - O processo reavaliativo se dará através de uma análise rígida pela gerência da equipe durante um período de 30 dias, tendo como base os seguintes tópicos (se aplicável):
 - Reincidência;
 - Validação da justificativa proferida pelo membro;
 -do membro perante a equipe;
@@ -229,4 +227,4 @@ A pontuação das atividades poderá ser de:
 
   Parágrafo único – casos omissos deverão ser resolvidos pela capitania.
   
-**PRESENTE REGULAMENTO FOI APROVADO EM UNANIMIDADE PELA GERÊNCIA E CAPITANIA EM 06 DE SETEMBRO DE 2022.**
+**PRESENTE REGULAMENTO FOI APROVADO EM UNANIMIDADE PELA GERÊNCIA E CAPITANIA EM 12 DE SETEMBRO DE 2023.**
