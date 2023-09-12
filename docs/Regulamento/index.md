@@ -82,6 +82,8 @@ Atividades são classificadas da seguinte forma:
 - Média: 2 pontos
 - Complexa: 3 pontos
 
+Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso não aconteça, o gerente tem autonomia para decidir a validade do sprint com 2 pontos ou menos.
+
 ### Framework básico:
 
 **Product Owner (PO)**  
@@ -205,12 +207,14 @@ Atividades são classificadas da seguinte forma:
 -do membro perante a equipe;
 - Disposição perante as tarefas gerais;
 
-**Art.5º** - O capitão da equipe terá poder de afastar e excluir membros da equipe caso ache necessário, com uma justificativa válida, aprovada por ⅔ dos gerentes de célula, sem a necessidade do caso se enquadrar em nenhuma norma anterior.
+**Art.6º** - O capitão da equipe terá poder de afastar e excluir membros da equipe caso ache necessário, com uma justificativa válida, aprovada por ⅔ dos gerentes de célula, sem a necessidade do caso se enquadrar em nenhuma norma anterior.
 
-**Art.6º** - O capitão da equipe está sujeito ao rebaixamento do cargo ou exclusão da equipe se cumpridos os seguintes requisitos:
+**Art.7º** - O capitão da equipe está sujeito ao rebaixamento do cargo ou exclusão da equipe se cumpridos os seguintes requisitos:
 - Aprovação mínima da ação por 2/3 (DOIS TERÇOS) dos gerentes de célula;
 - Aprovação do professor coordenador da equipe;
 - Sendo cumprido os requisitos necessários, o novo capitão da equipe será escolhido em reunião através de votação (maioria simples) aberta aos membros, onde ao menos 80% dos membros que constituem a equipe deverá estar presente;
+
+**Art.8º** - Racismo, xenofobia, machismo, homofobia, transfobia, capacitismo e intolerância no geral são **estritamente proibidos**, resultando em **expulsão efetivo imediato** do membro.
 
 ## CAPÍTULO VII - DOS BENEFÍCIOS
 
