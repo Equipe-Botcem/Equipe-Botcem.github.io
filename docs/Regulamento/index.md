@@ -70,7 +70,7 @@ JOINVILLE**
 A equipe atualmente funciona com base em uma adaptação do método SCRUM, onde cada gerente de célula define uma lista com as tarefas a serem realizadas durante o semestre e a prioridade das mesmas, de maneira mais detalhada e subdivida possível.  
 Para esclarecer seu funcionamento, um resumo básico do seu funcionamento é apresentado abaixo.  
 
-**METODOLOGIA SCRUM**  
+**METODOLOGIA [SCRUM](/docs/Guidelines/Scrum.md)**  
 O Scrum será utilizado para gestão de projetos em todas as células da equipe.  
 Sprint: unidade básica de tempo de acompanhamento da realização de tarefas  
 Tarefas: atividades a serem realizadas  
