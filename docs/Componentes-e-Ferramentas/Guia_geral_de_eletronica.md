@@ -3,10 +3,11 @@ nav_order: 20  # Ordem que vai aparecer no menu à esquerda
 title: Guia_de_eletronica # O que vai aparecer no menu à esquerda
 has_children: false  # Se possui sub-páginas
 ---
-# Guia de Elétronica UFSC -Botcem
+# Guia de Eletrônica UFSC -Botcem
 
 ![alt text](guia_images/0.png)
 ![alt text](guia_images/1.png)
+
 Autor: André Luís Corrêa Barbado
 
 ## Resumo:
@@ -101,7 +102,7 @@ Analogia: voltando ao exemplo do cano de água, a corrente
 seria comparável à quantidade de água que flui através do cano. Um cano com maior fluxo de água
 terá uma corrente maior, enquanto um cano com menor fluxo terá uma corrente menor.
 
-![alt text](2.png)
+![alt text](guia_images/2.png)
 
 **3. Potência (P):**
 
