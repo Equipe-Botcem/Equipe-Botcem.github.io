@@ -119,6 +119,7 @@ O circuito de proteção apresentado coloca filtros nas alimentações e adicion
 Ponte H SMD:
 
 ![SMD](Images/TB6612SMD.png)
+![SMD esquematico](Images\esquematicoTB6612SMD.jpg)
 
 A seguir esta descrito o circuito implementado: 
 ![circuito de proteção ponte H](Images/Circuito_ponteh.jpeg)
