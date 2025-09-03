@@ -5,19 +5,23 @@ has_children: false  # Se possui sub-páginas
 ---
 # Regulamento interno
 
-**Setembro de 2023  
+**Setembro de 2025  
 JOINVILLE**
 
 ## CAPÍTULO I - DA EXTENSÃO E ATUALIZAÇÃO DO REGULAMENTO
 
-**Art.1º** - O presente documento integra o regimento interno da equipe BOTCEM. A ação reguladora nele contido estende-se a todos os membros, sem distinção hierárquica.  
- - _§ 1º_ - Salvo Capítulo V.  
+**Art.1º** - O presente documento integra o regimento interno da equipe BOTCEM. A ação
+reguladora nele contido estende-se a todos os membros, sem distinção hierárquica.
+§ 1º - Salvo Capítulo V.
 
-**Art.2º** - Qualquer mudança no regulamento deve ser aprovada em unanimidade pela capitania e gerência da equipe.  
- - _§ 1º_ - A estrutura de capitania e gerência deve respeitar o Capítulo III.  
+**Art.2º** - Qualquer mudança no regulamento deve ser aprovada em unanimidade pela
+capitania e gerência da equipe.
+§ 1º - A estrutura de capitania e gerência deve respeitar o Capítulo III .
 
-**Art.3º** - Em casos excepcionais poderão se aplicar normas diferentes a determinados membros, desde que aprovado pela capitania e pelo conselho dos gerentes.  
-  Parágrafo único – seu cumprimento é dever de todos os membros, não sendo permitido, a ninguém, alegar seu desconhecimento.
+**Art.3º** - Em casos excepcionais poderão se aplicar normas diferentes a determinados
+membros, desde que aprovado pela capitania e pelo conselho dos gerentes.
+Parágrafo único – seu cumprimento é dever de todos os membros, não sendo
+permitido, a ninguém, alegar seu desconhecimento.
 
 ## CAPÍTULO II - DA ADMISSÃO DE NOVOS MEMBROS
 
@@ -41,25 +45,42 @@ JOINVILLE**
 
 **Art.7º** - Um novo membro pode ser direcionado diretamente para ingressar em uma das células de desenvolvimento de robôs se for considerado que esse já possui conhecimento suficiente ou haja alguma necessidade específica da célula,  desde que aprovado pela capitania.  
 
+  - _§ 1º_ - Em casos extraordinários para aprovação sem processo seletivo,
+  dever-seão analisar motivos para os quais o aluno requerente não se candidatou
+  no processo seletivo.
+
 **Art.8º** - Casos de readmissão serão analisados pela equipe somente após três meses do desligamento.
 
 ## CAPÍTULO III - DA DIVISÃO INTERNA DA EQUIPE  
 
-**Art.1º** - A divisão da equipe será de acordo com os projetos em desenvolvimento mais a área conjunta de administração e projetos. Atualmente a equipe é dividida em 4 projetos: Seguidor, Sumô, VSSS e ADM.  
+**Art.1º** - A divisão da equipe será de acordo com os projetos em desenvolvimento mais a
+área conjunta de administração e projetos. Atualmente a equipe é dividida em 5
+células: Combate, Seguidor, Sumô, Artbot e Administração.
 
-  - § 1º - A célula de ADM, caso tenha número suficiente de membros e aprovação da capitania, pode ser subdividida em células de administração e marketing. Nesse caso, será apontado um gerente de marketing, subordinado ao gerente de administração e com autonomia para gerir os membros alocados a sua célula.  
+  - _§ 1º_ -  célula de Administração, caso tenha número suficiente de membros e
+  aprovação da capitania, pode ser subdividida em células de administração e
+  marketing. Nesse caso, será apontado um gerente de marketing, subordinado
+  ao gerente de administração e com autonomia para gerir os membros alocados
+  a sua célula;
 
-  - § 2º - A alocação ou realocação de um novo membro em uma área se dará com base no seu conhecimento e experiência previamente adquiridos os quais serão avaliados pela capitania e gerentes de projeto envolvidos;  
+  - _§ 2º_ - A alocação ou realocação de um novo membro em uma área se dará com
+  base no seu conhecimento e experiência previamente adquiridos os quais serão
+  avaliados pela capitania e gerentes de projeto envolvidos;  
 
-  - § 3º - Cada projeto dentro da equipe contará com um Gerente de projeto, responsável por auxiliar o capitão da equipe na administração dos projetos.
+  - _§ 3º_ - Cada projeto dentro da equipe contará com um Gerente de projeto, responsável por auxiliar o capitão da equipe na administração dos projetos.
 
-  - § 4º - A categoria de base pode ser desenvolvida como um projeto próprio para os calouros da equipe ou se especificar como uma célula Omega, em que utiliza-se como base um projeto existente da equipe e ele é projetado e construído novamente, visando aprimorar o seu desempenho e crescimento pessoal dos novos membros.
 
-**Art.2º** - Hierarquia dos Cargos é dada na seguinte sequência decrescente: Capitão, Vice-Capitão, Gerente de Célula, Membro geral, Categoria de Base.  
+**Art.2º** - Hierarquia dos Cargos é dada na seguinte sequência decrescente: Capitão,
+Vice-Capitão, Gerente de Célula, Membro geral, Trainee, Membro Conselheiro.  
 
-  - § 1º - Membro geral é qualquer membro não encarregado com cargos de gerência.  
+  - _§ 1º_ - Membro geral é qualquer membro não encarregado com cargos de gerência.  
 
-  - § 2º  - Categoria de base é qualquer membro em estágio probatório na equipe, ou seja, pertencente ao programa de admissão de novos membros - não provindos de indicação.  
+  - _§ 2º_  - Trainee é qualquer membro em estágio probatório na equipe, ou seja,
+  pertencente ao programa de admissão de novos membros - não provindos de
+  indicação.  
+
+**Art.3º** - O processo de decisões deve basear-se na aprovação de 2/3 (Dois terços) do respectivo corpo de membros.
+
 
 **Art.3º** - Cada célula tem autonomia nas atividades e responsabilidade sobre os resultados obtidos.  
 
@@ -67,20 +88,27 @@ JOINVILLE**
 
 ## CAPÍTULO IV - DA DINÂMICA DA EQUIPE
 
-A equipe atualmente funciona com base em uma adaptação do método SCRUM, onde cada gerente de célula define uma lista com as tarefas a serem realizadas durante o semestre e a prioridade das mesmas, de maneira mais detalhada e subdivida possível.  
+A equipe atualmente funciona com base em uma adaptação do método SCRUM, onde cada gerente de célula define uma lista com as tarefas a serem realizadas durante o semestre e a prioridade das mesmas, de maneira mais detalhada e subdivida possível.   
 Para esclarecer seu funcionamento, um resumo básico do seu funcionamento é apresentado abaixo.  
 
 **METODOLOGIA [SCRUM](/docs/Guidelines/Scrum.md)**  
-O Scrum será utilizado para gestão de projetos em todas as células da equipe.  
-Sprint: unidade básica de tempo de acompanhamento da realização de tarefas  
+O Scrum será utilizado para gestão de projetos em todas as células da equipe.
+
+Sprint: unidade básica de tempo de acompanhamento da realização de tarefas
+
 Tarefas: atividades a serem realizadas  
-Cada tarefa pode ser atribuída a 1 ou mais pessoas  
-Cada tarefa será associada a uma pontuação  
+
+  - Cada tarefa pode ser atribuída a 1 ou mais pessoas  
+  - Cada tarefa será associada a uma pontuação
+
 Atividades são classificadas da seguinte forma:
 
-- Simples: 1 ponto
-- Média: 2 pontos
-- Complexa: 3 pontos
+- 1 ponto
+- 2 pontos
+- 3 pontos
+- 5 pontos
+- 8 pontos
+- 13 pontos -> *Framework básico*
 
 Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso não aconteça, o gerente tem autonomia para decidir a validade do sprint com 2 pontos ou menos.
 
@@ -105,30 +133,32 @@ Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso nã
 
 ### REUNIÕES  
 **Reunião Geral (Reunião oficial):**  
-- Reunião semanal  
-- Presença obrigatória de todos os participantes da equipe  
-- Discussão de assuntos de interesse geral  
-- Realização de briefings dos sprints  
-- Horário definido no início do semestre levando em consideração a disponibilidade do número máximo de membros possível
-- Horários de reunião definidos por meio de enquete no Whatsapp sempre na primeira semana de cada semestre
-- Em caso de indisponibilidade do membro em comparecer, caso tenha votado e comunicado à capitania, suas faltas estão justificadas
-- A regra anterior também se aplica a calouros, vide que não fazem parte da votação durante a primeira semana 
 
-**Reunião dos Gerentes (Reunião oficial):**  
-- Reunião semanal  
-- Presença obrigatória para todos os gerentes e capitania  
-- Discussão de planejamento estratégico e operacional  
-- Horário definido pela maioria dos gerentes e capitania
-- Horários de reunião definidos por meio de enquete no Whatsapp após horários de reunião geral serem definidos
+➔ Reunião Geral (Reunião oficial):
+◆ Reunião semanal
+◆ Presença obrigatória de todos os participantes da equipe
+◆ Discussão de assuntos de interesse geral
+◆ Realização de briefings dos sprints
+◆ Horário definido no início do semestre levando em consideração a
+disponibilidade do número máximo de membros possível 
 
-**Reunião de Célula (Reunião oficial):**  
-- Reuniões marcadas pelos gerentes de célula com pelo menos 48 horas de antecedência  
-- Presença obrigatória para todos os membros convocados  
-- Caso não especificado, todos os membros da célula estão convocados  
+➔ Reunião dos
+Gerentes (Reunião oficial):
+◆ Reunião semanal
+◆ Presença obrigatória para todos os gerentes e capitania
+◆ Discussão de planejamento estratégico e operacional 
+◆Horário definido pela maioria dos gerentes e capitania 
 
-**Reunião extra oficiais:**  
-- Podem ser marcadas por gerentes ou capitania  
-- Presença encorajada, mas não obrigatória  
+➔ Reunião de Célula (Reunião oficial):
+◆ Reuniões marcadas pelos gerentes de célula com pelo menos 48 horas de
+antecedência
+◆ Presença obrigatória para todos os membros convocados
+◆ Caso não especificado, todos os membros da célula estão convocados 
+
+➔ Reunião extra oficiais:
+◆ Podem ser marcadas por gerentes ou capitania
+◆ Presença encorajada, mas não obrigatória
+
 
 ### Algumas responsabilidades relacionada ao método Scrum:
 
@@ -143,41 +173,80 @@ Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso nã
 ## CAPÍTULO V - DOS DEVERES, OBRIGAÇÕES E RESPONSABILIDADES
 
 **Art.1º** - É dever de todos os membros:
-- Cumprir com todos os compromissos expressamente assumidos no ato da admissão, com dedicação, atenção e competência profissional;
-- 1.1. É obrigatório, portanto, comparecer a todas as reuniões oficiais e cumprir com os horários estabelecidos de laboratório, de forma a cumprir todo o horário semanal;
-- 1.2. É obrigatório, portanto, manter a organização do laboratório;
-- Atender com competência e profissionalismo as instruções delegadas pelas lideranças;
-- Manter a ordem e disciplina no local de trabalho;
-- Zelar pela conservação do local de trabalho, instalações, equipamentos e máquinas;
-- Manter a conduta compatível com a dignidade do cargo ocupado e com a reputação da Equipe;
-- Usar os equipamentos de segurança do trabalho quando no uso do laboratório (óculos, guarda-pó, calçado fechado, calça comprida, etc.);
-- Frequentar cursos de aprendizagem, treinamento e aperfeiçoamento organizados pela equipe;
-- Cumprir os prazos estabelecidos para a entrega das atividades individuais;
-- Mostrar-se disponível às atividades extra laboratoriais (assim como atividades lucrativas, reuniões extras e apresentações);
-- Preencher documentos cabíveis em caso de saída da equipe.
-- Sempre que possível contribuir para a mensalidade definida no início do semestre para manutenção dos equipamentos e auxílio financeiro dos projetos.
-- No semestre 2022.1 em votação anônima foi decidido por unanimidade de membros a divulgação de contribuidores da mensalidade excluindo dessa lista todos aqueles que declararem receber qualquer tipo de auxílio financeiro da universidade.
+1. Cumprir com todos os compromissos expressamente assumidos no ato da
+admissão, com dedicação, atenção e competência profissional;
+1.1. É obrigatório, portanto, comparecer a todas as reuniões oficiais e cumprir
+com os horários estabelecidos de laboratório, de forma a cumprir todo o
+horário semanal;
+1.2. É obrigatório, portanto, manter a organização do laboratório;
+2. Atender com competência e profissionalismo as instruções delegadas pelas
+lideranças;
+3. Manter a ordem e disciplina no local de trabalho;
+4. Zelar pela conservação do local de trabalho, instalações, equipamentos e
+máquinas;
+5. Manter a conduta compatível com a dignidade do cargo ocupado e com a
+reputação da Equipe;
+6. Usar os equipamentos de segurança do trabalho quando no uso do laboratório
+(óculos, guarda-pó, calçado fechado, calça comprida, etc.);
+7. Frequentar cursos de aprendizagem, treinamento e aperfeiçoamento organizados
+pela equipe;
+8. Cumprir os prazos estabelecidos para a entrega das atividades individuais;
+9. Mostrar-se disponível às atividades extra laboratoriais (assim como atividades
+lucrativas, reuniões extras e apresentações);
+10. Preencher documentos cabíveis em caso de saída da equipe.
+11. Pagar a mensalidade definida no início do semestre
+12. Responder a comunicação oficial da equipe quando solicitado pela gerência e
+capitânia em até 24 horas.
+13. Comparecer a ao menos uma competição por ano, salvo membros cadastrados
+auxílio PRAE
 
 **Art.2º** - É dever do time scrum:
-- Cumprir a pontuação mínima por sprint apontada pela capitania;
-- Notificar o não comprimento de sua tarefa e justificativa antes do final do sprint.
-- Se apresentar a reuniões solicitadas pelo seu gerente quando solicitados para relatar o progresso das atividades do sprint.
+1. Cumprir a pontuação mínima por sprint apontada pela capitania;
+2. Notificar o não comprimento de sua tarefa e justificativa antes do final do sprint.
+3. Se apresentar a reuniões solicitadas pelo seu gerente quando solicitados para
+relatar o progresso das atividades do sprint.
 
 **Art.3º** - É dever de todos os gerentes:
-- Se apresentar a reuniões solicitadas pela capitania quando solicitados para relatar os progressos das atividades do sprint;
-- Gerenciar seu time scrum de maneira a atingir os objetivos da equipe;
-- Definir as datas de início e final de sprint;
-- Definir tarefas para cada sprint, atribuindo pontuação e as distribuindo para sua equipe.
-- O gerente terá autonomia de dar pontos por atividades não cumpridas dentro do período proposto caso a justificativa (prévia ao final do sprint) do membro responsável pela tarefa seja válida;
-- Alimentar o aplicativo de gerenciamento da botcem com a conclusão das tarefas em até 48 horas do fim do sprint;
-- Justificativa deve ser apresentada no caso de não cumprimento da tarefa
-- Cumprir a pontuação mínima por sprint apontada pela capitania;
+1. Se apresentar a reuniões solicitadas pela capitania quando solicitados para
+relatar os progressos das atividades do sprint;
+2. Gerenciar seu time scrum de maneira a atingir os objetivos da equipe;
+3. Definir as datas de início e final de sprint;
+4. Definir tarefas para cada sprint, atribuindo pontuação e as distribuindo para sua
+equipe.
+5. O gerente terá autonomia de dar pontos por atividades não cumpridas dentro
+do período proposto caso a justificativa (prévia ao final do sprint) do membro
+responsável pela tarefa seja válida;
+6. Alimentar o aplicativo ou planilha de gerenciamento da botcem com tarefas a
+serem desenvolvidas em até 48 horas do início do sprint;
+7. Alimentar o aplicativo de gerenciamento da botcem com a conclusão das tarefas
+em até 48 horas do fim do sprint;
+a. Justificativa deve ser apresentada no caso de não cumprimento da tarefa
+8. Cumprir a pontuação mínima por sprint apontada pela capitania;
+9. Contribuir com o Marketing da equipe trazendo conteúdo midiático do projeto
+durante seu desenvolvimento e em competições;
+10. Documentar o desenvolvimento do projeto, resultados obtidos, erros e
+problemas encontrados, contribuindo ativamente com a BotWiki.
+11. Apontar um substituto a ser treinado como subgerente antes de sua saída oficial
+da gerência a fim de garantir a continuidade do projeto e da equipe.
 
-**Art.3º** - É dever dos capitães:
-- Agir visando atingir os objetivos da equipe;
-- Supervisionar o andamento das atividades realizadas na célula;
-- Representar a Botcem em reuniões realizadas pela faculdade ou entidades da faculdade;
-- Intermediar a comunicação entre o professor coordenador da equipe e os membros.
+**Art.4º** - É dever dos capitães:
+1. Agir visando atingir os objetivos da equipe;
+2. Supervisionar o andamento das atividades realizadas na célula;
+3. Representar a Botcem em reuniões realizadas pela faculdade ou entidades da
+faculdade;
+4. Intermediar a comunicação entre o professor coordenador da equipe e os
+membros.
+5. Durante a transferência de capitânia, o novo capitão deve receber todas as
+contas(redes sociais e bancárias) e senhas da equipe gerindo-a entre os
+gerentes e membros conforme necessário. O antigo capitão apenas deixa o
+cargo após a transferência completa destas informações.
+
+**Art.5º** - É dever dos Professores vinculados ao projeto:
+1. Comparecer ao laboratório ou participar atividades da equipe por ao menos 2
+horas semanais (Uma pontuação simbólica será adotada para os professores);
+2. Manter-se informado do calendário da equipe, objetivos e metas gerais traçados
+e acompanhar sempre que possível o desenvolvimento dos projetos;
+3. Ser solícito para com as demandas da equipe conforme a própria disponibilidade.
 
 ## CAPÍTULO VI - DA PENALIDADE E EXCLUSÃO DE MEMBROS
 
@@ -204,17 +273,21 @@ Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso nã
 **Art.5º** - O processo reavaliativo se dará através de uma análise rígida pela gerência da equipe durante um período de 30 dias, tendo como base os seguintes tópicos (se aplicável):
 - Reincidência;
 - Validação da justificativa proferida pelo membro;
--do membro perante a equipe;
+- Eficiência do membro perante a equipe;
 - Disposição perante as tarefas gerais;
 
 **Art.6º** - O capitão da equipe terá poder de afastar e excluir membros da equipe caso ache necessário, com uma justificativa válida, aprovada por ⅔ dos gerentes de célula, sem a necessidade do caso se enquadrar em nenhuma norma anterior.
+  - § 1º - Em casos de intolerância, desrespeito aos direitos humanos,
+  machismo, violência e demais casos extremos que coloquem outra pessoa em
+  situação vexatória ou de risco. O gerente da célula tem liberdade para
+  afastamento compulsório do membro, devendo o mesmo reportar o ocorrido
+  imediatamente à, capitania e demais gerentes. Devendo marcar uma reunião
+  emergencial em até 48 horas para tomada de decisão.
 
 **Art.7º** - O capitão da equipe está sujeito ao rebaixamento do cargo ou exclusão da equipe se cumpridos os seguintes requisitos:
 - Aprovação mínima da ação por 2/3 (DOIS TERÇOS) dos gerentes de célula;
 - Aprovação do professor coordenador da equipe;
-- Sendo cumprido os requisitos necessários, o novo capitão da equipe será escolhido em reunião através de votação (maioria simples) aberta aos membros, onde ao menos 80% dos membros que constituem a equipe deverá estar presente;
-
-**Art.8º** - Racismo, xenofobia, machismo, homofobia, transfobia, capacitismo e intolerância no geral são **estritamente proibidos**, resultando em **expulsão efetivo imediato** do membro.
+Sendo cumprido os requisitos necessários, o novo capitão da equipe será escolhido em reunião através de votação (maioria simples) aberta aos membros, onde ao menos 80% dos membros que constituem a equipe deverá estar presente;
 
 ## CAPÍTULO VII - DOS BENEFÍCIOS
 
@@ -222,13 +295,49 @@ Um sprint é concluído após o membro acumular 3 pontos ao final, caso isso nã
   - § 1º - O tempo de participação para o certificado inicia na data referente ao início do semestre letivo vigente, com base no calendário oficial geral da UFSC - CTJ.
   - § 2º - Não serão gerados certificados de participação inferior a 1 (UM) semestre.
 
-## CAPÍTULO VIII - DISPOSIÇÕES GERAIS
+## CAPÍTULO VIII - DO CONSELHO E COMUNIDADE DE EX-MEMBROS
+**Art.1º** - Considerar-se-á membro do conselho da equipe todo aquele membro geral
+ativo que estando na equipe já atuou por ao menos 4 semestres, gerentes e capitães,
+inteiramente integrados da dinâmica de funcionamento da equipe.
+
+**Art.2º** - Todo membro ativo da equipe e participante do conselho tem direito de
+voto na tomada de decisões da equipe, devendo colaborar para com a avaliação de
+proposições da gerência e capitania, quanto aos interesses gerais da equipe.
+- § 1º - Esclarece que, apenas membros inclusos no conselho tem, portanto,
+o direito de voto para tomada de decisões de cunho geral da equipe.
+
+**Art.3º** - Todo ex-membro uma vez membro conselheiro, tem o direito de, opinar,
+levantar questionamentos sobre as decisões tomadas e suas justificativas, auxiliar no
+direcionamento da equipe, visando seu desenvolvimento.
+- § 1º - Ex-membros conselheiros tem o direito de voto reservado
+exclusivamente quando solicitado.
+- § 2º - Ex-membros inclusos no conselho que por suas ações prejudicarem a
+equipe intencionalmente, perderão o acesso a comunidade e qualquer
+privilégio como sua parte e como conselheiro. O mesmo se aplica a ex-membros
+expulsos por meio do parágrafo 1º do Art.6º do Capítulo VI.
+
+**Art.4º** - À comunidade externa reserva-se o acompanhamento das atividades,
+propondo melhorias e zelando pelo cuidado e preservação da equipe. Sendo livre,
+qualquer iniciativa de auxílio para a equipe, às quais devem ser levadas a gerência e
+capitania antes de proposição para demais membros.
+- § 1º - Incentiva-se por meio deste o fortalecimento da comunidade de
+ex-membros e futuros ex-membros, de modo operacionalizar e facilitar o
+desenvolvimento pessoal e profissional, compartilhando experiências,
+oportunidades de crescimento levando em conta os valores da Universidade
+Federal de Santa Catarina.
+
+## CAPÍTULO IX - DISPOSIÇÕES GERAIS
 
 **Art.1º** - Fica reservado a qualquer membro da equipe o poder de pedido de veto de decisões tomadas.
   - § 1º - Para que o veto seja concretizado, deverá haver concordância de 70% da equipe.
+  - § 2º - Todo membro tem direito a justificativa das decisões tomadas pela
+  gerência e capitania.
+  - § 3º - Reserva-se a todo membro o direito de livre contribuição visando o
+  desenvolvimento da equipe.
+
 
 **Art.2º** - Alterações no regulamento deverão ser aprovadas em unanimidade pela capitania e pelo menos 80% dos gerentes.
 
   Parágrafo único – casos omissos deverão ser resolvidos pela capitania.
   
-**PRESENTE REGULAMENTO FOI APROVADO EM UNANIMIDADE PELA GERÊNCIA E CAPITANIA EM 12 DE SETEMBRO DE 2023.**
+**PRESENTE REGULAMENTO FOI APROVADO EM UNANIMIDADE PELA GERÊNCIA E CAPITANIA EM 28 DE MAIO DE 2025.**
