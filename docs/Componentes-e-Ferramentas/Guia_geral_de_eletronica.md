@@ -1,3 +1,4 @@
+---
 parent: Componentes e Ferramentas  # Título da página pai como definido no index.md
 nav_order: 20  # Ordem que vai aparecer no menu à esquerda
 title: Guia_de_eletronica # O que vai aparecer no menu à esquerda
@@ -602,4 +603,5 @@ Exemplo: Um termostato inteligente pode usar um microcontrolador para ler a temp
 sistema de aquecimento e ar-condicionado e se comunicar com outros dispositivos inteligentes na casa.
 
 https://www.citisystems.com.br/lei-de-ohm/
+
 
