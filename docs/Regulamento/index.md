@@ -82,9 +82,9 @@ Vice-Capitão, Gerente de Célula, Membro geral, Trainee, Membro Conselheiro.
 **Art.3º** - O processo de decisões deve basear-se na aprovação de 2/3 (Dois terços) do respectivo corpo de membros.
 
 
-**Art.3º** - Cada célula tem autonomia nas atividades e responsabilidade sobre os resultados obtidos.  
+**Art.4º** - Cada célula tem autonomia nas atividades e responsabilidade sobre os resultados obtidos.  
 
-**Art.4º** - As células deverão estar alinhadas com os objetivos gerais da equipe e com as decisões tomadas em conjunto com os capitães.
+**Art.5º** - As células deverão estar alinhadas com os objetivos gerais da equipe e com as decisões tomadas em conjunto com os capitães.
 
 ## CAPÍTULO IV - DA DINÂMICA DA EQUIPE
 
