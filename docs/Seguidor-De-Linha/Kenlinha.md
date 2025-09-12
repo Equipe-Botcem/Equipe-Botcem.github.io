@@ -1,3 +1,10 @@
+---
+parent: Seguidor de Linha
+nav_order: 11  # Ordem que vai aparecer no menu à esquerda
+title: Kenlinha # O que vai aparecer no menu à esquerda
+has_children: false  # Se possui sub-páginas
+---
+
 ### **Projeto campeão do 3º Summit Nacional de Roboótica de Joinville**
 
 **Descrição:**
