@@ -1,3 +1,10 @@
+---
+parent: Seguidor de Linha
+title: Kenlinha
+nav_order: 10
+
+---
+
 ### **Projeto campeão do 3º Summit Nacional de Roboótica de Joinville**
 
 **Descrição:**
