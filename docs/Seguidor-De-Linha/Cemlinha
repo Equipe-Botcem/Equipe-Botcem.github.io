@@ -1,0 +1,11 @@
+parent: Seguidor de Linha
+nav_order: 8
+title: Cemlinha
+has_children: false
+
+**Descrição:** utiliza motor escovado N20 - 3000 rpm da Polulu e foi o último projeto do seguidor desenvolvido utilizando arduino
+
+**Conclusões:**
+
+- O arduíno apresentou diversas limitações;
+- Serviu como prova de conceito para controle e motores melhores;
